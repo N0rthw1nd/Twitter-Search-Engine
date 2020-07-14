@@ -1,0 +1,17 @@
+{"text":"I love Dropbox because I LIEK MONEY http:\/\/t.co\/on8tk8aESR","accountName":"startwars","date":"Wed Jul 24 23:43:21 CEST 2013","retweetCount":0,"favoritesCount":0}
+{"text":"@rasmusfleischer länktips, om hur avsaknad av copyright fungerar i klädesbranchen & annat http:\/\/www.youtube.com\/watch?v=zL2FOrx41N0","accountName":"startwars","date":"Wed May 26 14:01:01 CEST 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@brokep din twitter e på playrapport: http:\/\/bit.ly\/VFwYi","accountName":"startwars","date":"Thu Sep 24 12:24:29 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Nu har jag röstat pirat!","accountName":"startwars","date":"Sun Jun 07 12:22:22 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"First rule: remember that the plural of \"anecdote\" is not \"data\"","accountName":"startwars","date":"Tue Apr 28 16:58:47 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"trying out Ubuntu 9.04, impressed so far","accountName":"startwars","date":"Tue Apr 28 13:27:59 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"#spectrial Tomas Norström (corrupt judge) also behind Bahnhof 2005 raids of tpb servers: http:\/\/tinyurl.com\/cjaoq8","accountName":"startwars","date":"Thu Apr 23 10:38:18 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"building lego robots","accountName":"startwars","date":"Sat Apr 18 12:03:02 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"tpb lost the trial says @brokep","accountName":"startwars","date":"Fri Apr 17 10:54:33 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"ska börja leka krig i skogen me dawa!","accountName":"startwars","date":"Fri Apr 17 10:24:01 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"please bury the april fools day for once and for all","accountName":"startwars","date":"Wed Apr 01 11:23:34 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"the sun is shining!","accountName":"startwars","date":"Wed Mar 25 16:36:35 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"@paradoxgeek: oooh geomery wars e mitt favospel just nu! på ds & wii wuwuuw. lira resident evil 5 me mika om du gillar left4dead","accountName":"startwars","date":"Tue Mar 24 13:33:19 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"it appears the judges aren't even aware of the warez scene initially supplying the stuff long before it ever appear on tpb #spectrial","accountName":"startwars","date":"Wed Feb 25 15:33:52 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"när den nya musiken domineras av dokusåpahoror e de väl inte konstigt att ingen köper skiten. e dom ens poppis på piratebay? #spectrial","accountName":"startwars","date":"Wed Feb 25 15:09:45 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"the pink panter at iTunes cost 3.99 $ (35.1 SEK) #spectrial","accountName":"startwars","date":"Wed Feb 25 13:41:37 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"messing with RTP streams","accountName":"startwars","date":"Mon Jan 26 12:14:04 CET 2009","retweetCount":0,"favoritesCount":0}

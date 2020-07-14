@@ -1,0 +1,621 @@
+{"text":"Linux Mint 20 “Ulyana” Xfce released!\nhttps:\/\/t.co\/FZCX1WSFue https:\/\/t.co\/3brzYeJSK4","accountName":"Linux_Mint","date":"Sat Jun 27 16:13:21 CEST 2020","retweetCount":70,"favoritesCount":265}
+{"text":"Linux Mint 20 “Ulyana” MATE released!\nhttps:\/\/t.co\/rIJRh90X5y https:\/\/t.co\/blBrJILfSb","accountName":"Linux_Mint","date":"Sat Jun 27 16:12:34 CEST 2020","retweetCount":75,"favoritesCount":278}
+{"text":"Linux Mint 20 “Ulyana” Cinnamon released!\nhttps:\/\/t.co\/4OoVOvQwFn https:\/\/t.co\/rBRLWEpSVN","accountName":"Linux_Mint","date":"Sat Jun 27 16:11:44 CEST 2020","retweetCount":514,"favoritesCount":1800}
+{"text":"Monthly News – June 2020\nhttps:\/\/t.co\/BmsJX6h6Oc","accountName":"Linux_Mint","date":"Sat Jun 27 14:13:35 CEST 2020","retweetCount":36,"favoritesCount":153}
+{"text":"Linux Mint 20 “Ulyana” Xfce – BETA Release\nhttps:\/\/t.co\/n3MB0mnRp1 https:\/\/t.co\/WwyyQOvuWX","accountName":"Linux_Mint","date":"Sun Jun 14 09:28:16 CEST 2020","retweetCount":47,"favoritesCount":214}
+{"text":"Linux Mint 20 “Ulyana” MATE – BETA Release\nhttps:\/\/t.co\/QWVFwrtYs9 https:\/\/t.co\/FPDO8BOP7L","accountName":"Linux_Mint","date":"Sun Jun 14 09:27:15 CEST 2020","retweetCount":54,"favoritesCount":228}
+{"text":"Linux Mint 20 “Ulyana” Cinnamon – BETA Release\nhttps:\/\/t.co\/WBTwMmaOYB https:\/\/t.co\/rm3M2Rgpw1","accountName":"Linux_Mint","date":"Sun Jun 14 09:26:00 CEST 2020","retweetCount":174,"favoritesCount":756}
+{"text":"Monthly News – May 2020\nhttps:\/\/t.co\/mlEsogay1q https:\/\/t.co\/pnnaCchR0h","accountName":"Linux_Mint","date":"Mon Jun 01 18:09:31 CEST 2020","retweetCount":92,"favoritesCount":371}
+{"text":"Monthly News – April 2020\nhttps:\/\/t.co\/HROg8UTS9q https:\/\/t.co\/rJbt15bx8R","accountName":"Linux_Mint","date":"Thu Apr 30 18:27:38 CEST 2020","retweetCount":65,"favoritesCount":327}
+{"text":"Monthly News – March 2020\nhttps:\/\/t.co\/qHdbcfiBhd https:\/\/t.co\/GBbE4R6YWB","accountName":"Linux_Mint","date":"Tue Mar 31 16:46:14 CEST 2020","retweetCount":49,"favoritesCount":221}
+{"text":"MintBox 3 Review\nhttps:\/\/t.co\/YSPhRhgi6h https:\/\/t.co\/9wMGT0GXYa","accountName":"Linux_Mint","date":"Fri Mar 27 13:30:39 CET 2020","retweetCount":145,"favoritesCount":688}
+{"text":"LMDE 4 “Debbie” released!\nhttps:\/\/t.co\/NrLee4Ner1 https:\/\/t.co\/kf7zE8fx9I","accountName":"Linux_Mint","date":"Fri Mar 20 13:01:39 CET 2020","retweetCount":128,"favoritesCount":439}
+{"text":"How to upgrade to LMDE 4\nhttps:\/\/t.co\/jFAh6WnYXp","accountName":"Linux_Mint","date":"Fri Mar 20 13:00:23 CET 2020","retweetCount":25,"favoritesCount":85}
+{"text":"Monthly News – February 2020\nhttps:\/\/t.co\/Y0Ku8PMUQn https:\/\/t.co\/NtChOf9JB4","accountName":"Linux_Mint","date":"Sun Mar 01 13:29:17 CET 2020","retweetCount":43,"favoritesCount":184}
+{"text":"LMDE 4 “Debbie” – BETA Release\nhttps:\/\/t.co\/wMErOTZQIc https:\/\/t.co\/bagNdfq5BM","accountName":"Linux_Mint","date":"Tue Feb 25 11:34:03 CET 2020","retweetCount":77,"favoritesCount":302}
+{"text":"Monthly News - January 2020\nhttps:\/\/t.co\/fFt4OTtvIS https:\/\/t.co\/Ywyvz0NEgz","accountName":"Linux_Mint","date":"Fri Jan 31 15:24:29 CET 2020","retweetCount":78,"favoritesCount":358}
+{"text":"Monthly News – December 2019\nhttps:\/\/t.co\/fBHJnA4FMm https:\/\/t.co\/nlxESEkO4R","accountName":"Linux_Mint","date":"Fri Dec 27 14:53:37 CET 2019","retweetCount":88,"favoritesCount":363}
+{"text":"RT @SoftpediaLinux: MintBox3 #Linux PC Arrives with Linux Mint 19.3 \"Tricia\" Cinnamon Pre-Installed https:\/\/t.co\/FN049FZaoP @Linux_Mint htt…","accountName":"Linux_Mint","date":"Thu Dec 19 00:42:33 CET 2019","retweetCount":52,"favoritesCount":0}
+{"text":"How to upgrade to Linux Mint 19.3\nhttps:\/\/t.co\/lP0cLW5Bha","accountName":"Linux_Mint","date":"Wed Dec 18 14:47:01 CET 2019","retweetCount":50,"favoritesCount":184}
+{"text":"Linux Mint 19.3 “Tricia” Xfce released!\nhttps:\/\/t.co\/U5grWYoMmV https:\/\/t.co\/zGcNva6h4w","accountName":"Linux_Mint","date":"Wed Dec 18 14:45:56 CET 2019","retweetCount":56,"favoritesCount":173}
+{"text":"Linux Mint 19.3 “Tricia” MATE released!\nhttps:\/\/t.co\/LIUETYv6fx https:\/\/t.co\/nzmi3nvZHh","accountName":"Linux_Mint","date":"Wed Dec 18 14:45:33 CET 2019","retweetCount":38,"favoritesCount":127}
+{"text":"Linux Mint 19.3 “Tricia” Cinnamon released!\nhttps:\/\/t.co\/L9bFdbOYGY https:\/\/t.co\/2a4fV5mZ89","accountName":"Linux_Mint","date":"Wed Dec 18 14:45:06 CET 2019","retweetCount":231,"favoritesCount":737}
+{"text":"Linux Mint 19.3 “Tricia” Xfce – BETA Release\nhttps:\/\/t.co\/Zj1CrAw9QY https:\/\/t.co\/baujh7w76X","accountName":"Linux_Mint","date":"Tue Dec 03 20:53:25 CET 2019","retweetCount":37,"favoritesCount":151}
+{"text":"Linux Mint 19.3 “Tricia” MATE – BETA Release\nhttps:\/\/t.co\/HEZhOCNXJ3 https:\/\/t.co\/XfCe9BgMnF","accountName":"Linux_Mint","date":"Tue Dec 03 20:52:46 CET 2019","retweetCount":28,"favoritesCount":122}
+{"text":"Linux Mint 19.3 “Tricia” Cinnamon – BETA Release\nhttps:\/\/t.co\/9vq8FARwm9 https:\/\/t.co\/9rCByagfDU","accountName":"Linux_Mint","date":"Tue Dec 03 20:50:44 CET 2019","retweetCount":106,"favoritesCount":384}
+{"text":"Monthly News – November 2019\nhttps:\/\/t.co\/5bOyzU4EnQ","accountName":"Linux_Mint","date":"Sun Dec 01 19:41:51 CET 2019","retweetCount":30,"favoritesCount":146}
+{"text":"@mortalsdemise13 Ok, if it works well in 18.04 but not in Mint 19.x, then it's something we need to look into. In that case you can describe the issue at https:\/\/t.co\/ZkTmgeZ4Cl.","accountName":"Linux_Mint","date":"Fri Nov 01 02:41:04 CET 2019","retweetCount":1,"favoritesCount":4}
+{"text":"@aanetgeek Salut Alain. Clem (moi-meme qui te reponds) est Francais, et vit en Irlande depuis ses 20 ans et la fin de ses etudes en 1999. Sa femme et ses enfants sont Irlandais. Le projet est ne et principalement dirige depuis l'Irlande. Les developeurs viennent de nombreux autres pays.","accountName":"Linux_Mint","date":"Fri Nov 01 02:38:47 CET 2019","retweetCount":0,"favoritesCount":1}
+{"text":"@mortalsdemise13 https:\/\/t.co\/wVJDVXn0QR","accountName":"Linux_Mint","date":"Fri Nov 01 02:23:26 CET 2019","retweetCount":1,"favoritesCount":3}
+{"text":"@aanetgeek Oui.","accountName":"Linux_Mint","date":"Fri Nov 01 02:23:01 CET 2019","retweetCount":0,"favoritesCount":0}
+{"text":"@aanetgeek Salut Alain. Menée par un Français mais la distrib est irlandaise. Les dévelopeurs viennent du Monde entier (France, USA, Russie, Royaume Uni, Italie..etc) ;)","accountName":"Linux_Mint","date":"Fri Nov 01 02:10:52 CET 2019","retweetCount":0,"favoritesCount":0}
+{"text":"@merimaat Which driver do you mean? Is there a package for it already?","accountName":"Linux_Mint","date":"Fri Nov 01 02:08:00 CET 2019","retweetCount":2,"favoritesCount":2}
+{"text":"@mortalsdemise13 Sudo was updated following the CVE, credits to Debian and Ubuntu. I don't know much about GNOME music, contacts and ktouch, if there are issues with them they should be reported on Launchpad as they'll likely impact Ubuntu 18.04 as well.","accountName":"Linux_Mint","date":"Fri Nov 01 02:06:52 CET 2019","retweetCount":2,"favoritesCount":4}
+{"text":"@Entity325 The only way you like Mint and feel like that about GNOME is by not understanding how much they contribute to us and open source as a whole. What they do goes way beyond their desktop environment. It's an entire eco system and a hugely important set of toolkits and libraries.","accountName":"Linux_Mint","date":"Fri Nov 01 02:03:59 CET 2019","retweetCount":2,"favoritesCount":7}
+{"text":"@igaldino GNOME and Mint don't always have the same vision. This is obvious with Cinnamon, MATE and Xapps. We still owe them a lot and we're very grateful for what they do. Without them we wouldn't be where we are today, there's no doubt.","accountName":"Linux_Mint","date":"Fri Nov 01 02:01:38 CET 2019","retweetCount":0,"favoritesCount":7}
+{"text":"@mixaeuu Thanks Michael, it's coming :) We need to work a little bit on fonts to make sure it looks good in all resolutions, but it should look the way it does in the screenshot.","accountName":"Linux_Mint","date":"Fri Nov 01 01:59:43 CET 2019","retweetCount":3,"favoritesCount":4}
+{"text":"@Devthestark 19.3 will be based on 18.04 (GNOME 3.28) but we'll backport the latest Celluloid and Gnote versions.","accountName":"Linux_Mint","date":"Fri Nov 01 01:58:46 CET 2019","retweetCount":2,"favoritesCount":2}
+{"text":"@leochavez @gnome @mintcast Thanks Leo. Solidarity is important for any open source project. In the case of GNOME it goes beyond that, we owe them a lot. If you look at your Mint desktop and browse through the many apps, it's mind-boggling how many wouldn't exist without GTK and the GNOME project.","accountName":"Linux_Mint","date":"Fri Nov 01 01:57:44 CET 2019","retweetCount":12,"favoritesCount":57}
+{"text":"Monthly News – October 2019\nhttps:\/\/t.co\/6m6SqJqC5c https:\/\/t.co\/QcU1ZGyWg1","accountName":"Linux_Mint","date":"Thu Oct 31 13:47:41 CET 2019","retweetCount":45,"favoritesCount":219}
+{"text":"Monthly News – September 2019\nhttps:\/\/t.co\/IzUCQyXhkZ https:\/\/t.co\/H3507ODDzu","accountName":"Linux_Mint","date":"Tue Oct 01 15:25:13 CEST 2019","retweetCount":47,"favoritesCount":214}
+{"text":"Monthly News – August 2019\nhttps:\/\/t.co\/1LwQBLyL8c https:\/\/t.co\/keAeqmD9pE","accountName":"Linux_Mint","date":"Tue Sep 03 13:19:37 CEST 2019","retweetCount":46,"favoritesCount":171}
+{"text":"How to upgrade to Linux Mint 19.2\nhttps:\/\/t.co\/IpFS9k9hRY https:\/\/t.co\/w021M9kYld","accountName":"Linux_Mint","date":"Fri Aug 02 17:45:10 CEST 2019","retweetCount":94,"favoritesCount":337}
+{"text":"Linux Mint 19.2 “Tina” Xfce released!\nhttps:\/\/t.co\/ypt1YffKZA https:\/\/t.co\/VzdrstlDrm","accountName":"Linux_Mint","date":"Fri Aug 02 11:32:24 CEST 2019","retweetCount":63,"favoritesCount":251}
+{"text":"Linux Mint 19.2 “Tina” MATE released!\nhttps:\/\/t.co\/YGBRJpv3FA https:\/\/t.co\/cxeA0Q7cVb","accountName":"Linux_Mint","date":"Fri Aug 02 11:31:15 CEST 2019","retweetCount":47,"favoritesCount":167}
+{"text":"Linux Mint 19.2 “Tina” Cinnamon released!\nhttps:\/\/t.co\/RgP57of0zx https:\/\/t.co\/yEHGMkK6Bs","accountName":"Linux_Mint","date":"Fri Aug 02 11:28:34 CEST 2019","retweetCount":223,"favoritesCount":612}
+{"text":"Monthly News – July 2019\nhttps:\/\/t.co\/gcdYf8D3qN","accountName":"Linux_Mint","date":"Mon Jul 29 13:04:23 CEST 2019","retweetCount":38,"favoritesCount":127}
+{"text":"Linux Mint 19.2 “Tina” Xfce – BETA Release\nhttps:\/\/t.co\/CFuo5vLYfi https:\/\/t.co\/bXKmW6gObj","accountName":"Linux_Mint","date":"Tue Jul 16 18:19:17 CEST 2019","retweetCount":41,"favoritesCount":134}
+{"text":"Linux Mint 19.2 “Tina” MATE – BETA Release\nhttps:\/\/t.co\/TUdobwyndd https:\/\/t.co\/KxDCsasxGP","accountName":"Linux_Mint","date":"Tue Jul 16 18:18:27 CEST 2019","retweetCount":29,"favoritesCount":118}
+{"text":"Linux Mint 19.2 “Tina” Cinnamon – BETA Release\nhttps:\/\/t.co\/k1OmbDltJT https:\/\/t.co\/kV11j4Zja3","accountName":"Linux_Mint","date":"Tue Jul 16 18:17:58 CEST 2019","retweetCount":133,"favoritesCount":440}
+{"text":"@HHemrin @elementary @PeppermintOS 4.2 (which comes with Mint 19.2) features faster loading times, better performance overall and reduced resource usage. We worked a lot on the window manager, the menu and critical internal components such as docinfo and appsys.","accountName":"Linux_Mint","date":"Sat Jul 13 17:53:05 CEST 2019","retweetCount":0,"favoritesCount":4}
+{"text":"@HHemrin @elementary @PeppermintOS It also depends on the environment and the version of Cinnamon (we're constantly trying to improve this). Cinnamon 4.2 running in 32-bit in VMWare: 53MB. https:\/\/t.co\/9kIRhk8fLK","accountName":"Linux_Mint","date":"Fri Jul 12 17:09:15 CEST 2019","retweetCount":0,"favoritesCount":3}
+{"text":"@HHemrin @elementary @PeppermintOS Light distros are light and so are lightweight desktops such as Xfce. No surprise there. The RAM used in accelerated environments such as Cinnamon or GNOME depends on the GPU drivers. For instance Cinnamon will use more RAM with NVIDIA than with Intel.","accountName":"Linux_Mint","date":"Fri Jul 12 17:02:43 CEST 2019","retweetCount":0,"favoritesCount":10}
+{"text":"@Devthestark Tina :)","accountName":"Linux_Mint","date":"Fri Jul 12 12:18:39 CEST 2019","retweetCount":2,"favoritesCount":10}
+{"text":"From now on, Ubuntu LTS releases and derivatives (Linux Mint, Elementary, Zorin etc..) will be getting updates for NVIDIA drivers from the repositories. This is excellent news for NVIDIA users. Many thanks to @Ubuntu for the awesome news and for making this possible! https:\/\/t.co\/qOrQ49ugD7","accountName":"Linux_Mint","date":"Fri Jul 12 10:00:04 CEST 2019","retweetCount":126,"favoritesCount":493}
+{"text":"Monthly News - June 2019\nhttps:\/\/t.co\/LlV2ssAjeg https:\/\/t.co\/BKFDB8hE7g","accountName":"Linux_Mint","date":"Tue Jul 02 17:30:22 CEST 2019","retweetCount":60,"favoritesCount":267}
+{"text":"Monthly News - May 2019\nhttps:\/\/t.co\/oQeO2O5p8w https:\/\/t.co\/RhtN9ItcwF","accountName":"Linux_Mint","date":"Sun Jun 02 16:38:27 CEST 2019","retweetCount":67,"favoritesCount":248}
+{"text":"Monthly News – April 2019\nhttps:\/\/t.co\/vH8kRqlcls https:\/\/t.co\/P139y1psCO","accountName":"Linux_Mint","date":"Thu May 02 17:45:37 CEST 2019","retweetCount":49,"favoritesCount":208}
+{"text":"Monthly News – March 2019\nhttps:\/\/t.co\/YiHNl4vBMr","accountName":"Linux_Mint","date":"Mon Apr 01 17:39:34 CEST 2019","retweetCount":35,"favoritesCount":151}
+{"text":"Monthly News – February 2019\nhttps:\/\/t.co\/xKmy22s6XA https:\/\/t.co\/gmw2Ym0FhC","accountName":"Linux_Mint","date":"Fri Mar 01 16:09:26 CET 2019","retweetCount":57,"favoritesCount":265}
+{"text":"Monthly News – January 2019\nhttps:\/\/t.co\/WCvCLJ4hZg","accountName":"Linux_Mint","date":"Thu Jan 31 12:28:52 CET 2019","retweetCount":22,"favoritesCount":105}
+{"text":"Monthly News – December 2018\nhttps:\/\/t.co\/a2dRgRXAeJ","accountName":"Linux_Mint","date":"Sat Jan 05 15:40:21 CET 2019","retweetCount":36,"favoritesCount":133}
+{"text":"How to upgrade to Linux Mint 19.1\nhttps:\/\/t.co\/XI9S41v1Kj https:\/\/t.co\/rD03y8gXcL","accountName":"Linux_Mint","date":"Thu Dec 20 11:53:54 CET 2018","retweetCount":131,"favoritesCount":321}
+{"text":"Linux Mint 19.1 “Tessa” Xfce released!\nhttps:\/\/t.co\/MbwXX4a6Zu https:\/\/t.co\/dE9HT44JgR","accountName":"Linux_Mint","date":"Wed Dec 19 12:55:44 CET 2018","retweetCount":57,"favoritesCount":167}
+{"text":"Linux Mint 19.1 “Tessa” MATE released!\nhttps:\/\/t.co\/9kgnDenbqS https:\/\/t.co\/BHwdDD5AQU","accountName":"Linux_Mint","date":"Wed Dec 19 12:55:17 CET 2018","retweetCount":58,"favoritesCount":166}
+{"text":"Linux Mint 19.1 “Tessa” Cinnamon released!\nhttps:\/\/t.co\/tPyGf0RHiU https:\/\/t.co\/n7YvVta96Z","accountName":"Linux_Mint","date":"Wed Dec 19 12:53:23 CET 2018","retweetCount":220,"favoritesCount":612}
+{"text":"Linux Mint 19.1 “Tessa” Xfce – BETA Release\nhttps:\/\/t.co\/dKckoCQmsY https:\/\/t.co\/2zXMrUho2E","accountName":"Linux_Mint","date":"Thu Dec 06 13:54:29 CET 2018","retweetCount":34,"favoritesCount":129}
+{"text":"Linux Mint 19.1 “Tessa” MATE – BETA Release\nhttps:\/\/t.co\/Efg7ackzQV https:\/\/t.co\/sIJwlRL84c","accountName":"Linux_Mint","date":"Thu Dec 06 13:53:45 CET 2018","retweetCount":26,"favoritesCount":134}
+{"text":"Linux Mint 19.1 “Tessa” Cinnamon – BETA Release\nhttps:\/\/t.co\/Kqr8jOf5ZV https:\/\/t.co\/BwLzItAX0g","accountName":"Linux_Mint","date":"Thu Dec 06 13:52:57 CET 2018","retweetCount":89,"favoritesCount":299}
+{"text":"Monthly News – November 2018\nhttps:\/\/t.co\/AI0eH0vPVq","accountName":"Linux_Mint","date":"Sun Dec 02 14:05:53 CET 2018","retweetCount":45,"favoritesCount":162}
+{"text":"Monthly News – October 2018\nhttps:\/\/t.co\/a6YE0E6bVM https:\/\/t.co\/hfbnPfA6kv","accountName":"Linux_Mint","date":"Tue Oct 30 12:42:49 CET 2018","retweetCount":83,"favoritesCount":308}
+{"text":"Monthly News – September 2018\nhttps:\/\/t.co\/0p0tGzPzh6 https:\/\/t.co\/wOo4M5kdQl","accountName":"Linux_Mint","date":"Wed Sep 26 13:55:55 CEST 2018","retweetCount":48,"favoritesCount":132}
+{"text":"Linux Mint 19.1 codenamed ‘Tessa’\nhttps:\/\/t.co\/ceY72MR9rX","accountName":"Linux_Mint","date":"Fri Sep 07 14:52:50 CEST 2018","retweetCount":102,"favoritesCount":261}
+{"text":"Monthly News – August 2018\nhttps:\/\/t.co\/I1gpUWBnFC https:\/\/t.co\/aQ755SDDI9","accountName":"Linux_Mint","date":"Fri Aug 31 17:02:49 CEST 2018","retweetCount":31,"favoritesCount":73}
+{"text":"How to upgrade to LMDE 3\nhttps:\/\/t.co\/Nmu2AnCMGE","accountName":"Linux_Mint","date":"Fri Aug 31 17:01:27 CEST 2018","retweetCount":23,"favoritesCount":57}
+{"text":"LMDE 3 “Cindy” Cinnamon released!\nhttps:\/\/t.co\/xFqXRg32XS https:\/\/t.co\/RG2S9cZSUW","accountName":"Linux_Mint","date":"Fri Aug 31 16:59:36 CEST 2018","retweetCount":208,"favoritesCount":582}
+{"text":"LMDE 3 “Cindy” Cinnamon – BETA Release\nhttps:\/\/t.co\/Q3WwXXcVGS https:\/\/t.co\/nfbeYseicY","accountName":"Linux_Mint","date":"Tue Jul 31 13:32:43 CEST 2018","retweetCount":100,"favoritesCount":373}
+{"text":"Monthly News – July 2018\nhttps:\/\/t.co\/QUpndYGhgN","accountName":"Linux_Mint","date":"Fri Jul 20 13:54:40 CEST 2018","retweetCount":44,"favoritesCount":105}
+{"text":"How to upgrade to Linux Mint 19\nhttps:\/\/t.co\/fQmk7lQXCW","accountName":"Linux_Mint","date":"Wed Jul 04 08:40:50 CEST 2018","retweetCount":113,"favoritesCount":256}
+{"text":"Linux Mint 19 \"Tara\" Xfce released!\nhttps:\/\/t.co\/Q5avR0HrIk https:\/\/t.co\/QJNRCwl2LA","accountName":"Linux_Mint","date":"Fri Jun 29 16:58:04 CEST 2018","retweetCount":120,"favoritesCount":316}
+{"text":"Linux Mint 19 \"Tara\" MATE released!\nhttps:\/\/t.co\/suaq6bCrlM https:\/\/t.co\/Fyec8GOBpI","accountName":"Linux_Mint","date":"Fri Jun 29 16:57:18 CEST 2018","retweetCount":93,"favoritesCount":250}
+{"text":"Linux Mint 19 \"Tara\" Cinnamon released!\nhttps:\/\/t.co\/QQTmkMAid6 https:\/\/t.co\/fSzOzSkKNj","accountName":"Linux_Mint","date":"Fri Jun 29 16:56:18 CEST 2018","retweetCount":451,"favoritesCount":1309}
+{"text":"Monthly News – June 2018\nhttps:\/\/t.co\/XQRbjMNhDt https:\/\/t.co\/FonvOOt11k","accountName":"Linux_Mint","date":"Thu Jun 28 12:00:48 CEST 2018","retweetCount":97,"favoritesCount":327}
+{"text":"Linux Mint 19 “Tara” Xfce – BETA Release\nhttps:\/\/t.co\/IDeHZCFiOr https:\/\/t.co\/oQIQfUcdUD","accountName":"Linux_Mint","date":"Mon Jun 04 12:53:52 CEST 2018","retweetCount":56,"favoritesCount":203}
+{"text":"Linux Mint 19 “Tara” MATE – BETA Release\nhttps:\/\/t.co\/LmOPXb3PmH https:\/\/t.co\/Uk7wxP6mvX","accountName":"Linux_Mint","date":"Mon Jun 04 12:53:28 CEST 2018","retweetCount":39,"favoritesCount":137}
+{"text":"Linux Mint 19 “Tara” Cinnamon – BETA Release\nhttps:\/\/t.co\/8ENxZQ1K7S https:\/\/t.co\/0m1YzvkctE","accountName":"Linux_Mint","date":"Mon Jun 04 12:53:00 CEST 2018","retweetCount":207,"favoritesCount":541}
+{"text":"Monthly News – May 2018\nhttps:\/\/t.co\/Rwnyxqh4bN","accountName":"Linux_Mint","date":"Thu May 31 18:06:14 CEST 2018","retweetCount":39,"favoritesCount":116}
+{"text":"Cinnamon 3.8\nhttps:\/\/t.co\/bTS7H5JZMM","accountName":"Linux_Mint","date":"Wed May 02 15:30:37 CEST 2018","retweetCount":54,"favoritesCount":141}
+{"text":"Monthly News - April 2018\nhttps:\/\/t.co\/ZHkeT0MDkh","accountName":"Linux_Mint","date":"Mon Apr 30 13:28:11 CEST 2018","retweetCount":43,"favoritesCount":100}
+{"text":"Monthly News – March 2018\nhttps:\/\/t.co\/vpb6IDaLH6 https:\/\/t.co\/acHy9ViccU","accountName":"Linux_Mint","date":"Sun Apr 01 23:24:02 CEST 2018","retweetCount":37,"favoritesCount":121}
+{"text":"Mintbox Mini 2\nhttps:\/\/t.co\/g3ETYkYOmX https:\/\/t.co\/PxXLkzXVil","accountName":"Linux_Mint","date":"Fri Mar 23 18:19:31 CET 2018","retweetCount":167,"favoritesCount":534}
+{"text":"Faster app-launching in Cinnamon\nhttps:\/\/t.co\/Mf10YrVwTN","accountName":"Linux_Mint","date":"Thu Mar 15 12:21:02 CET 2018","retweetCount":39,"favoritesCount":102}
+{"text":"Monthly News – February 2018\nhttps:\/\/t.co\/C2wh7ipht6","accountName":"Linux_Mint","date":"Fri Mar 09 12:22:47 CET 2018","retweetCount":19,"favoritesCount":62}
+{"text":"Monthly News – January 2018\nhttps:\/\/t.co\/yvWCmttZei","accountName":"Linux_Mint","date":"Fri Jan 26 19:19:18 CET 2018","retweetCount":49,"favoritesCount":121}
+{"text":"RT @BuddyGit: +1 to delivering applications on every tag push \/ pull request @BuddyGit #DevOps https:\/\/t.co\/SNZdeFLht6","accountName":"Linux_Mint","date":"Fri Jan 19 16:13:07 CET 2018","retweetCount":70,"favoritesCount":0}
+{"text":"Security notice: Meltdown and Spectre\nhttps:\/\/t.co\/Ns62Kzxras","accountName":"Linux_Mint","date":"Tue Jan 09 19:26:29 CET 2018","retweetCount":119,"favoritesCount":167}
+{"text":"Linux Mint 19 codenamed “Tara”\nhttps:\/\/t.co\/fCxzLMKXQF","accountName":"Linux_Mint","date":"Wed Jan 03 13:04:53 CET 2018","retweetCount":133,"favoritesCount":252}
+{"text":"Linux Mint Translation Guide\nhttps:\/\/t.co\/3T1S02kyV2","accountName":"Linux_Mint","date":"Sat Dec 30 12:22:52 CET 2017","retweetCount":23,"favoritesCount":48}
+{"text":"Monthly News – December 2017\nhttps:\/\/t.co\/BAYpf1NPGC","accountName":"Linux_Mint","date":"Tue Dec 26 15:52:59 CET 2017","retweetCount":25,"favoritesCount":52}
+{"text":"Linux Mint 18.3 “Sylvia” KDE released!\nhttps:\/\/t.co\/Zr0es1V3UM https:\/\/t.co\/AN3SmuRl0o","accountName":"Linux_Mint","date":"Fri Dec 15 14:38:52 CET 2017","retweetCount":92,"favoritesCount":257}
+{"text":"Linux Mint 18.3 “Sylvia” Xfce released!\nhttps:\/\/t.co\/1UliK2fnNU https:\/\/t.co\/IaTeQE4cVF","accountName":"Linux_Mint","date":"Fri Dec 15 14:37:17 CET 2017","retweetCount":79,"favoritesCount":191}
+{"text":"Linux Mint Installation Guide\nhttps:\/\/t.co\/QqTYUSIZOG https:\/\/t.co\/G6HbvCJzAX","accountName":"Linux_Mint","date":"Fri Dec 08 15:30:30 CET 2017","retweetCount":72,"favoritesCount":145}
+{"text":"Linux Mint 18.3 “Sylvia” Xfce – BETA Release\nhttps:\/\/t.co\/X2tN7EeAw8 https:\/\/t.co\/x1eGi9lz2z","accountName":"Linux_Mint","date":"Fri Dec 01 15:34:50 CET 2017","retweetCount":29,"favoritesCount":104}
+{"text":"Linux Mint 18.3 “Sylvia” KDE – BETA Release\nhttps:\/\/t.co\/KN4RrAiB1h https:\/\/t.co\/yuazc3Iw0d","accountName":"Linux_Mint","date":"Fri Dec 01 15:34:01 CET 2017","retweetCount":40,"favoritesCount":158}
+{"text":"How to upgrade to Linux Mint 18.3\nhttps:\/\/t.co\/TnpNyxPHgv https:\/\/t.co\/cHXAGHZjnZ","accountName":"Linux_Mint","date":"Mon Nov 27 16:50:10 CET 2017","retweetCount":92,"favoritesCount":217}
+{"text":"Linux Mint 18.3 “Sylvia” Cinnamon released!\nhttps:\/\/t.co\/yFZlnyVlM3 https:\/\/t.co\/tDepuXtvJ1","accountName":"Linux_Mint","date":"Mon Nov 27 12:10:00 CET 2017","retweetCount":252,"favoritesCount":552}
+{"text":"Linux Mint 18.3 “Sylvia” MATE released!\nhttps:\/\/t.co\/fGx5VoZB8t https:\/\/t.co\/rQwAlga5aJ","accountName":"Linux_Mint","date":"Mon Nov 27 12:08:57 CET 2017","retweetCount":89,"favoritesCount":160}
+{"text":"Linux Mint 18.3 “Sylvia” Cinnamon – BETA Release\nhttps:\/\/t.co\/4krJIwclzD https:\/\/t.co\/hC5jTP42S0","accountName":"Linux_Mint","date":"Tue Nov 14 19:06:09 CET 2017","retweetCount":127,"favoritesCount":305}
+{"text":"Linux Mint 18.3 “Sylvia” MATE – BETA Release\nhttps:\/\/t.co\/QuwkJ3kYi7 https:\/\/t.co\/R6pe72hl78","accountName":"Linux_Mint","date":"Tue Nov 14 19:05:41 CET 2017","retweetCount":33,"favoritesCount":94}
+{"text":"Monthly News – November 2017\nhttps:\/\/t.co\/LDmcg32zhu","accountName":"Linux_Mint","date":"Mon Nov 13 11:23:45 CET 2017","retweetCount":31,"favoritesCount":98}
+{"text":"Monthly News – October 2017\nhttps:\/\/t.co\/QE1iVgBhKH https:\/\/t.co\/MeIIcLE2sA","accountName":"Linux_Mint","date":"Wed Oct 25 15:33:58 CEST 2017","retweetCount":47,"favoritesCount":164}
+{"text":"Monthly News - September 2017\nhttps:\/\/t.co\/ZOQ57VMbNi https:\/\/t.co\/pJPRuOY6Ff","accountName":"Linux_Mint","date":"Mon Sep 18 14:07:20 CEST 2017","retweetCount":50,"favoritesCount":114}
+{"text":"Monthly News - August 2017\nhttps:\/\/t.co\/tK0EKf2yra https:\/\/t.co\/sbIPMfjQW6","accountName":"Linux_Mint","date":"Fri Sep 01 14:47:24 CEST 2017","retweetCount":58,"favoritesCount":168}
+{"text":"Monthly News - July 2017\nhttps:\/\/t.co\/9fbcXqVZEG https:\/\/t.co\/5DHH3LsHRA","accountName":"Linux_Mint","date":"Sun Jul 30 16:14:15 CEST 2017","retweetCount":33,"favoritesCount":111}
+{"text":"How to upgrade to Linux Mint 18.2\nhttps:\/\/t.co\/5zpXVT2ywG https:\/\/t.co\/Sc20UaCjsN","accountName":"Linux_Mint","date":"Mon Jul 03 16:47:22 CEST 2017","retweetCount":90,"favoritesCount":192}
+{"text":"Linux Mint 18.2 “Sonya” KDE released!\nhttps:\/\/t.co\/eex3S2rFIm https:\/\/t.co\/IEoE78j3rP","accountName":"Linux_Mint","date":"Sun Jul 02 21:56:55 CEST 2017","retweetCount":89,"favoritesCount":136}
+{"text":"Linux Mint 18.2 “Sonya” Xfce released!\nhttps:\/\/t.co\/OZUSEPcKx6 https:\/\/t.co\/YlKx15Dnto","accountName":"Linux_Mint","date":"Sun Jul 02 21:56:28 CEST 2017","retweetCount":65,"favoritesCount":118}
+{"text":"Linux Mint 18.2 “Sonya” MATE released!\nhttps:\/\/t.co\/J5s0Q4O3h1 https:\/\/t.co\/u1Pamxh3Bj","accountName":"Linux_Mint","date":"Sun Jul 02 21:55:29 CEST 2017","retweetCount":95,"favoritesCount":165}
+{"text":"Linux Mint 18.2 “Sonya” Cinnamon released!\nhttps:\/\/t.co\/OmLb4SXLSs https:\/\/t.co\/5Mh8MICN4X","accountName":"Linux_Mint","date":"Sun Jul 02 21:53:52 CEST 2017","retweetCount":187,"favoritesCount":314}
+{"text":"Monthly News – June 2017\nhttps:\/\/t.co\/znBhpG0aG0","accountName":"Linux_Mint","date":"Sat Jul 01 12:40:12 CEST 2017","retweetCount":19,"favoritesCount":59}
+{"text":"Linux Mint 18.2 “Sonya” Xfce – BETA Release\nhttps:\/\/t.co\/1DW7ipqosw https:\/\/t.co\/iagH3OJXK5","accountName":"Linux_Mint","date":"Mon Jun 12 13:05:02 CEST 2017","retweetCount":34,"favoritesCount":102}
+{"text":"Linux Mint 18.2 “Sonya” KDE – BETA Release\nhttps:\/\/t.co\/51yfJAbzXO https:\/\/t.co\/bAGk6D87su","accountName":"Linux_Mint","date":"Mon Jun 12 13:02:52 CEST 2017","retweetCount":29,"favoritesCount":82}
+{"text":"Linux Mint 18.2 “Sonya” Cinnamon – BETA Release\nhttps:\/\/t.co\/WeZcsffYrS https:\/\/t.co\/NVbPtDGtW6","accountName":"Linux_Mint","date":"Tue Jun 06 17:33:46 CEST 2017","retweetCount":84,"favoritesCount":159}
+{"text":"Linux Mint 18.2 “Sonya” MATE – BETA Release\nhttps:\/\/t.co\/erapFu7rEL https:\/\/t.co\/nKWsLWyqVL","accountName":"Linux_Mint","date":"Tue Jun 06 17:32:47 CEST 2017","retweetCount":46,"favoritesCount":90}
+{"text":"Monthly News - May 2017\nhttps:\/\/t.co\/BD2o9Wqdo5","accountName":"Linux_Mint","date":"Thu Jun 01 14:01:18 CEST 2017","retweetCount":17,"favoritesCount":38}
+{"text":"Monthly News - april 2017\nhttps:\/\/t.co\/Tvz2rtEH1g https:\/\/t.co\/v9MxTKIllm","accountName":"Linux_Mint","date":"Sun Apr 30 20:29:05 CEST 2017","retweetCount":39,"favoritesCount":80}
+{"text":"Monthly News - March 2017\nhttps:\/\/t.co\/fJfNT0Xlyi https:\/\/t.co\/0TxJWpVA21","accountName":"Linux_Mint","date":"Thu Mar 30 15:33:52 CEST 2017","retweetCount":38,"favoritesCount":75}
+{"text":"MintBox Mini Pro and Airtop Preview\nhttps:\/\/t.co\/AFpreFhIBd https:\/\/t.co\/8PTKtBQhUJ","accountName":"Linux_Mint","date":"Thu Mar 16 17:45:36 CET 2017","retweetCount":71,"favoritesCount":123}
+{"text":"New ISO images for LMDE 2 “Betsy”\nhttps:\/\/t.co\/fn0e5cIqia https:\/\/t.co\/FsfgoPQb4G","accountName":"Linux_Mint","date":"Mon Mar 13 13:56:48 CET 2017","retweetCount":74,"favoritesCount":126}
+{"text":"Monthly News - February 2017\nhttps:\/\/t.co\/6a6Sj7u9C8 https:\/\/t.co\/AGNgw4sQfX","accountName":"Linux_Mint","date":"Sat Feb 18 13:29:01 CET 2017","retweetCount":37,"favoritesCount":75}
+{"text":"Linux Mint 18.1 “Serena” KDE released!\nhttps:\/\/t.co\/TodLUhqlHK https:\/\/t.co\/130HoDqEhm","accountName":"Linux_Mint","date":"Fri Jan 27 11:52:37 CET 2017","retweetCount":91,"favoritesCount":159}
+{"text":"Linux Mint 18.1 “Serena” Xfce released!\nhttps:\/\/t.co\/QVjHWsMYvd https:\/\/t.co\/eaQUcPIN7C","accountName":"Linux_Mint","date":"Fri Jan 27 11:50:19 CET 2017","retweetCount":83,"favoritesCount":135}
+{"text":"New ISO images for LMDE 2 “Betsy” – BETA Release\nhttps:\/\/t.co\/gkDWUyhzHS https:\/\/t.co\/ngWclgARNw","accountName":"Linux_Mint","date":"Thu Jan 26 12:36:54 CET 2017","retweetCount":56,"favoritesCount":105}
+{"text":"Monthly News – January 2017\nhttps:\/\/t.co\/T2Bs8rZ1sL","accountName":"Linux_Mint","date":"Wed Jan 25 18:50:58 CET 2017","retweetCount":21,"favoritesCount":37}
+{"text":"Changes to Cinnamon Spices\nhttps:\/\/t.co\/e9reB835m6 https:\/\/t.co\/cUjB61Y7EC","accountName":"Linux_Mint","date":"Fri Jan 20 14:35:15 CET 2017","retweetCount":38,"favoritesCount":76}
+{"text":"Linux Mint 18.1 “Serena” KDE – BETA Release\nhttps:\/\/t.co\/sFIoserJh5 https:\/\/t.co\/AImCt6j2PW","accountName":"Linux_Mint","date":"Mon Jan 16 15:17:45 CET 2017","retweetCount":34,"favoritesCount":64}
+{"text":"Linux Mint 18.1 “Serena” Xfce – BETA Release\nhttps:\/\/t.co\/5vfNVVnXeD https:\/\/t.co\/Zqs2omKCdO","accountName":"Linux_Mint","date":"Thu Jan 05 13:33:18 CET 2017","retweetCount":49,"favoritesCount":106}
+{"text":"How to upgrade to Linux Mint 18.1\nhttps:\/\/t.co\/C5YFdazcA8 https:\/\/t.co\/Diz4jbPM5A","accountName":"Linux_Mint","date":"Sun Dec 18 14:00:05 CET 2016","retweetCount":81,"favoritesCount":111}
+{"text":"Linux Mint 18.1 “Serena” Cinnamon released!\nhttps:\/\/t.co\/yee14CkbDh https:\/\/t.co\/wkFG3UvLX8","accountName":"Linux_Mint","date":"Fri Dec 16 12:22:11 CET 2016","retweetCount":149,"favoritesCount":185}
+{"text":"Linux Mint 18.1 “Serena” MATE released!\nhttps:\/\/t.co\/tnu36Gxkvq https:\/\/t.co\/hAMbKwuisZ","accountName":"Linux_Mint","date":"Fri Dec 16 12:20:48 CET 2016","retweetCount":61,"favoritesCount":85}
+{"text":"Monthly News - December 2016 https:\/\/t.co\/fLfUllyftM https:\/\/t.co\/jxoMubbjBO","accountName":"Linux_Mint","date":"Thu Dec 15 15:12:30 CET 2016","retweetCount":19,"favoritesCount":49}
+{"text":"KDE Plasma 5.8 https:\/\/t.co\/hkjhCBpxdN","accountName":"Linux_Mint","date":"Sun Dec 11 14:56:13 CET 2016","retweetCount":14,"favoritesCount":23}
+{"text":"Linux Mint 18.1 “Serena” Cinnamon – BETA Release\nhttps:\/\/t.co\/UJ5ByI58TO https:\/\/t.co\/9f1APmP73S","accountName":"Linux_Mint","date":"Thu Dec 01 17:17:31 CET 2016","retweetCount":93,"favoritesCount":127}
+{"text":"Linux Mint 18.1 “Serena” MATE – BETA Release\nhttps:\/\/t.co\/vqxXYoGCam https:\/\/t.co\/Au7FDmv6HR","accountName":"Linux_Mint","date":"Thu Dec 01 17:17:02 CET 2016","retweetCount":25,"favoritesCount":47}
+{"text":"Monthly News - November 2016 https:\/\/t.co\/yKtExgIyVo","accountName":"Linux_Mint","date":"Sun Nov 13 14:01:49 CET 2016","retweetCount":16,"favoritesCount":27}
+{"text":"Monthly News - October 2016 https:\/\/t.co\/myLSxsy0Dw","accountName":"Linux_Mint","date":"Fri Oct 28 14:07:26 CEST 2016","retweetCount":14,"favoritesCount":23}
+{"text":"Linux Mint 18.1 codenamed “Serena” \nhttps:\/\/t.co\/XupODy53Ty","accountName":"Linux_Mint","date":"Fri Oct 28 11:46:44 CEST 2016","retweetCount":48,"favoritesCount":74}
+{"text":"Monthly News - September 2016 https:\/\/t.co\/TiI2pWvSgV","accountName":"Linux_Mint","date":"Fri Sep 30 14:04:40 CEST 2016","retweetCount":14,"favoritesCount":17}
+{"text":"Vertical panels in Cinnamon https:\/\/t.co\/Z9e6mZ0apy https:\/\/t.co\/nYJwgKsJA3","accountName":"Linux_Mint","date":"Fri Sep 30 11:28:13 CEST 2016","retweetCount":31,"favoritesCount":79}
+{"text":"Libxapp, and Blanking  other monitors https:\/\/t.co\/biHHw4DpVq https:\/\/t.co\/ajPHvSS8Ln","accountName":"Linux_Mint","date":"Thu Sep 29 13:34:01 CEST 2016","retweetCount":6,"favoritesCount":8}
+{"text":"Sublime-like search bar in Xed: https:\/\/t.co\/Brx8pt3RgU https:\/\/t.co\/qQZuCBpOnZ","accountName":"Linux_Mint","date":"Thu Sep 29 13:33:28 CEST 2016","retweetCount":7,"favoritesCount":16}
+{"text":"Mintbox Mini Pro https:\/\/t.co\/hdBdRzUBAP https:\/\/t.co\/aHRATyjxvn","accountName":"Linux_Mint","date":"Wed Sep 28 17:36:00 CEST 2016","retweetCount":51,"favoritesCount":88}
+{"text":"Addressing FUD https:\/\/t.co\/WmVnyNrrXN","accountName":"Linux_Mint","date":"Wed Sep 28 17:33:00 CEST 2016","retweetCount":17,"favoritesCount":23}
+{"text":"Linux Mint 18 \"Sarah\" KDE released! https:\/\/t.co\/WUTA7LI6l9","accountName":"Linux_Mint","date":"Fri Sep 09 10:31:43 CEST 2016","retweetCount":55,"favoritesCount":69}
+{"text":"Design Team working on Spices website https:\/\/t.co\/fSS1ccjEFt","accountName":"Linux_Mint","date":"Wed Sep 07 16:20:00 CEST 2016","retweetCount":13,"favoritesCount":32}
+{"text":"Linux Mint 18 \"Sarah\" KDE -- BETA release https:\/\/t.co\/09hpKIQAyC","accountName":"Linux_Mint","date":"Sat Aug 20 11:46:24 CEST 2016","retweetCount":55,"favoritesCount":51}
+{"text":"Monthly News - August 2016 https:\/\/t.co\/mJQOZlAOKL","accountName":"Linux_Mint","date":"Thu Aug 04 20:35:01 CEST 2016","retweetCount":20,"favoritesCount":24}
+{"text":"Linux Mint 18 \"Sarah\" Xfce released! https:\/\/t.co\/ilmA0TBEZ1","accountName":"Linux_Mint","date":"Tue Aug 02 13:21:39 CEST 2016","retweetCount":39,"favoritesCount":74}
+{"text":"Monthly News - July 2016 https:\/\/t.co\/dWNldztAzT","accountName":"Linux_Mint","date":"Thu Jul 28 14:06:22 CEST 2016","retweetCount":15,"favoritesCount":21}
+{"text":"Linux Mint 18 \"Sarah\" Xfce -- BETA Release https:\/\/t.co\/NUydKMtihr","accountName":"Linux_Mint","date":"Wed Jul 20 12:17:55 CEST 2016","retweetCount":35,"favoritesCount":53}
+{"text":"How to upgrade to Linux Mint 18 https:\/\/t.co\/iN9aZUSdqu","accountName":"Linux_Mint","date":"Thu Jul 14 18:12:04 CEST 2016","retweetCount":63,"favoritesCount":82}
+{"text":"Linux Mint 18 “Sarah” MATE released! https:\/\/t.co\/mZMirc8FtC","accountName":"Linux_Mint","date":"Thu Jun 30 16:07:51 CEST 2016","retweetCount":90,"favoritesCount":106}
+{"text":"Linux Mint 18 “Sarah” Cinnamon released! \nhttps:\/\/t.co\/fa86AoTLik","accountName":"Linux_Mint","date":"Thu Jun 30 16:07:27 CEST 2016","retweetCount":148,"favoritesCount":152}
+{"text":"Monthly News - June 2016 https:\/\/t.co\/vaTniqzrOD","accountName":"Linux_Mint","date":"Wed Jun 29 14:46:47 CEST 2016","retweetCount":14,"favoritesCount":30}
+{"text":"Linux Mint 18 “Sarah” Cinnamon – BETA Release - https:\/\/t.co\/1HGEOhkIev","accountName":"Linux_Mint","date":"Thu Jun 09 21:58:23 CEST 2016","retweetCount":53,"favoritesCount":75}
+{"text":"Linux Mint 18 “Sarah” MATE – BETA Release - https:\/\/t.co\/y36K21EHDf","accountName":"Linux_Mint","date":"Thu Jun 09 21:58:02 CEST 2016","retweetCount":24,"favoritesCount":51}
+{"text":"Monthly News - May 2016: https:\/\/t.co\/9ssrVYsASQ","accountName":"Linux_Mint","date":"Thu Jun 02 17:52:45 CEST 2016","retweetCount":9,"favoritesCount":22}
+{"text":"Monthly News - April 2016: https:\/\/t.co\/DRGufTZFy3","accountName":"Linux_Mint","date":"Fri May 06 14:07:33 CEST 2016","retweetCount":17,"favoritesCount":27}
+{"text":"Sucuri becomes Linux Mint’s 3rd biggest sponsor https:\/\/t.co\/t5ATipAMga","accountName":"Linux_Mint","date":"Tue Apr 26 11:41:40 CEST 2016","retweetCount":18,"favoritesCount":23}
+{"text":"Monthly News - March 2016: https:\/\/t.co\/gAFLpYn1Lk","accountName":"Linux_Mint","date":"Sun Apr 10 19:45:06 CEST 2016","retweetCount":24,"favoritesCount":34}
+{"text":"Monthly News - February 2016 https:\/\/t.co\/zJ61YrpHnU","accountName":"Linux_Mint","date":"Tue Mar 01 15:41:24 CET 2016","retweetCount":19,"favoritesCount":26}
+{"text":"@ErikRodabaugh That's good.","accountName":"Linux_Mint","date":"Mon Feb 22 18:58:56 CET 2016","retweetCount":0,"favoritesCount":2}
+{"text":"@ErikRodabaugh Hi Erik, change it on any other website where your password is the same or similar as the one you used on the forums.","accountName":"Linux_Mint","date":"Mon Feb 22 18:56:05 CET 2016","retweetCount":0,"favoritesCount":2}
+{"text":"All forums users should change their passwords https:\/\/t.co\/8gghMuQGiQ","accountName":"Linux_Mint","date":"Mon Feb 22 18:49:20 CET 2016","retweetCount":74,"favoritesCount":28}
+{"text":"Beware of hacked ISOs if you downloaded Linux Mint on February 20th! https:\/\/t.co\/cexMF2USWS","accountName":"Linux_Mint","date":"Sun Feb 21 02:50:41 CET 2016","retweetCount":666,"favoritesCount":196}
+{"text":"Monthly News - January 2016 https:\/\/t.co\/knhAsXDcWP https:\/\/t.co\/Nl07kj2RDc","accountName":"Linux_Mint","date":"Thu Jan 28 14:58:37 CET 2016","retweetCount":28,"favoritesCount":44}
+{"text":"Linux Mint 17.3 “Rosa” Xfce released! https:\/\/t.co\/7jF3j66F7y https:\/\/t.co\/BCGOu6USSq","accountName":"Linux_Mint","date":"Sat Jan 09 16:50:04 CET 2016","retweetCount":59,"favoritesCount":84}
+{"text":"Linux Mint 17.3 “Rosa” KDE released! https:\/\/t.co\/f9qrRvoinX https:\/\/t.co\/Kcko0ar3cs","accountName":"Linux_Mint","date":"Sat Jan 09 16:48:41 CET 2016","retweetCount":57,"favoritesCount":56}
+{"text":"Linux Mint 18 codenamed “Sarah” https:\/\/t.co\/r34Q55ph1R","accountName":"Linux_Mint","date":"Thu Jan 07 15:01:17 CET 2016","retweetCount":74,"favoritesCount":58}
+{"text":"Upgrade path to 17.3 now open for all editions https:\/\/t.co\/8jyfBSRAH9","accountName":"Linux_Mint","date":"Wed Jan 06 18:11:34 CET 2016","retweetCount":48,"favoritesCount":41}
+{"text":"Monthly News - December 2015 https:\/\/t.co\/fGeVUnrxA4\nHappy New Year everyone ;)","accountName":"Linux_Mint","date":"Fri Jan 01 00:25:35 CET 2016","retweetCount":19,"favoritesCount":39}
+{"text":"Linux Mint 17.3 “Rosa” Xfce – BETA Release https:\/\/t.co\/2jpNyIIGCE https:\/\/t.co\/VzR4jhK57C","accountName":"Linux_Mint","date":"Sat Dec 26 15:27:11 CET 2015","retweetCount":50,"favoritesCount":54}
+{"text":"Linux Mint 17.3 “Rosa” KDE – BETA Release https:\/\/t.co\/X7lHEWDbdQ https:\/\/t.co\/lfJpwxxuTe","accountName":"Linux_Mint","date":"Sat Dec 26 15:26:34 CET 2015","retweetCount":40,"favoritesCount":40}
+{"text":"Linux Mint 17.3 OEM images available https:\/\/t.co\/goN0rVC1Le","accountName":"Linux_Mint","date":"Sun Dec 13 11:35:59 CET 2015","retweetCount":31,"favoritesCount":23}
+{"text":"Monthly News – November 2015 https:\/\/t.co\/J4bhBQtrB1","accountName":"Linux_Mint","date":"Sun Dec 13 11:35:44 CET 2015","retweetCount":9,"favoritesCount":11}
+{"text":"How to upgrade to Linux Mint 17.3 https:\/\/t.co\/5OTZBjL9o1 https:\/\/t.co\/jrvsKYeuTI","accountName":"Linux_Mint","date":"Sun Dec 13 11:35:28 CET 2015","retweetCount":49,"favoritesCount":46}
+{"text":"Linux Mint 17.3 “Rosa” MATE released! https:\/\/t.co\/sMyeUlMzeE https:\/\/t.co\/uukuTHZ3Ii","accountName":"Linux_Mint","date":"Fri Dec 04 22:21:03 CET 2015","retweetCount":89,"favoritesCount":76}
+{"text":"Linux Mint 17.3 “Rosa” Cinnamon released! https:\/\/t.co\/TeJnd2D5NK https:\/\/t.co\/wmlbGSRZBK","accountName":"Linux_Mint","date":"Fri Dec 04 22:20:24 CET 2015","retweetCount":103,"favoritesCount":116}
+{"text":"@vysinsky Because it's very stable and because it's supported until 2019.","accountName":"Linux_Mint","date":"Wed Nov 18 19:17:38 CET 2015","retweetCount":0,"favoritesCount":2}
+{"text":"Linux Mint 17.3 “Rosa” Cinnamon – BETA Release https:\/\/t.co\/6b9XKTtJgp https:\/\/t.co\/u5haROVhLQ","accountName":"Linux_Mint","date":"Wed Nov 18 18:32:19 CET 2015","retweetCount":60,"favoritesCount":64}
+{"text":"Linux Mint 17.3 “Rosa” MATE – BETA Release https:\/\/t.co\/Zuucdf3CZH https:\/\/t.co\/rzgdraj47X","accountName":"Linux_Mint","date":"Wed Nov 18 18:30:36 CET 2015","retweetCount":44,"favoritesCount":38}
+{"text":"MATE 1.12 released! https:\/\/t.co\/v9t717gC0S","accountName":"Linux_Mint","date":"Fri Nov 06 01:32:13 CET 2015","retweetCount":36,"favoritesCount":43}
+{"text":"Cinnamon 2.8 released! https:\/\/t.co\/C4TQzSLlNr","accountName":"Linux_Mint","date":"Mon Nov 02 19:36:24 CET 2015","retweetCount":55,"favoritesCount":41}
+{"text":"Monthly News - October 2015 https:\/\/t.co\/7SfTM5MxYR","accountName":"Linux_Mint","date":"Mon Oct 26 14:55:17 CET 2015","retweetCount":10,"favoritesCount":10}
+{"text":"Monthly News - September 2015 http:\/\/t.co\/P12F8vpBIV","accountName":"Linux_Mint","date":"Thu Oct 01 13:10:42 CEST 2015","retweetCount":16,"favoritesCount":9}
+{"text":"Linux Mint 17.3 codenamed 'Rosa' http:\/\/t.co\/ROtnCELhn7","accountName":"Linux_Mint","date":"Tue Sep 15 11:15:02 CEST 2015","retweetCount":78,"favoritesCount":47}
+{"text":"Monthly News - August 2015 http:\/\/t.co\/jioJTBGFwe","accountName":"Linux_Mint","date":"Mon Aug 31 17:23:56 CEST 2015","retweetCount":11,"favoritesCount":6}
+{"text":"Linux Mint 17.2 “Rafaela” KDE released! http:\/\/t.co\/xYS0GPY2BF http:\/\/t.co\/ipztJkWP9M","accountName":"Linux_Mint","date":"Fri Aug 07 12:26:44 CEST 2015","retweetCount":75,"favoritesCount":55}
+{"text":"Linux Mint 17.2 “Rafaela” Xfce released! http:\/\/t.co\/Jo3f6G62UX http:\/\/t.co\/FeKbbBPxGr","accountName":"Linux_Mint","date":"Fri Aug 07 12:25:58 CEST 2015","retweetCount":49,"favoritesCount":48}
+{"text":"Monthly News - July 2015 http:\/\/t.co\/enX9nFpmqJ","accountName":"Linux_Mint","date":"Thu Jul 23 12:39:50 CEST 2015","retweetCount":5,"favoritesCount":7}
+{"text":"Linux Mint 17.2 \"Rafaela\" KDE RC released! http:\/\/t.co\/QVU9eWaKhk http:\/\/t.co\/puQlg62S4u","accountName":"Linux_Mint","date":"Thu Jul 16 20:22:33 CEST 2015","retweetCount":33,"favoritesCount":32}
+{"text":"Linux Mint 17.2 \"Rafaela\" Xfce RC released! http:\/\/t.co\/QELdtdhKaF http:\/\/t.co\/s0Y8FbeXgs","accountName":"Linux_Mint","date":"Thu Jul 16 20:21:51 CEST 2015","retweetCount":35,"favoritesCount":32}
+{"text":"How to upgrade to Linux Mint 17.2 http:\/\/t.co\/sYyeNQcaph","accountName":"Linux_Mint","date":"Fri Jul 03 14:10:41 CEST 2015","retweetCount":45,"favoritesCount":40}
+{"text":"Linux Mint 17.2 \"Rafaela\" Cinnamon released! http:\/\/t.co\/O8bUxzjBaZ","accountName":"Linux_Mint","date":"Tue Jun 30 13:07:45 CEST 2015","retweetCount":102,"favoritesCount":55}
+{"text":"Linux Mint 17.2 \"Rafaela\" MATE released! http:\/\/t.co\/S8SrSxIejP","accountName":"Linux_Mint","date":"Tue Jun 30 13:06:53 CEST 2015","retweetCount":47,"favoritesCount":19}
+{"text":"Linux Mint 17.2 “Rafaela” MATE RC released! http:\/\/t.co\/uVHf3vsGRS http:\/\/t.co\/cdV7e1rsGL","accountName":"Linux_Mint","date":"Wed Jun 17 16:00:32 CEST 2015","retweetCount":39,"favoritesCount":33}
+{"text":"Linux Mint 17.2 “Rafaela” Cinnamon RC released! http:\/\/t.co\/rT9HBfw132 http:\/\/t.co\/82GuCA3jrM","accountName":"Linux_Mint","date":"Wed Jun 17 15:59:42 CEST 2015","retweetCount":57,"favoritesCount":46}
+{"text":"Monthly News – June 2015 http:\/\/t.co\/xSXxE66GGU http:\/\/t.co\/Fnc3ZFqYX5","accountName":"Linux_Mint","date":"Tue Jun 16 17:39:57 CEST 2015","retweetCount":18,"favoritesCount":10}
+{"text":"Monthly News - May 2015 http:\/\/t.co\/Qt2UrpZjZy","accountName":"Linux_Mint","date":"Thu May 28 11:31:15 CEST 2015","retweetCount":10,"favoritesCount":9}
+{"text":"LMDE 1 will reach EOL on January 1st 2016 http:\/\/t.co\/mX1wwPDHZ4","accountName":"Linux_Mint","date":"Thu May 28 11:09:44 CEST 2015","retweetCount":12,"favoritesCount":6}
+{"text":"Upgrading LMDE (from UP8 to “Betsy”) http:\/\/t.co\/5pUVA41ouw","accountName":"Linux_Mint","date":"Sun May 17 10:33:08 CEST 2015","retweetCount":13,"favoritesCount":10}
+{"text":"MintBox Mini Preview http:\/\/t.co\/Pnfnkug7ZD http:\/\/t.co\/lHahMB78qQ","accountName":"Linux_Mint","date":"Mon May 11 18:10:11 CEST 2015","retweetCount":64,"favoritesCount":60}
+{"text":"Monthly News - April 2015 http:\/\/t.co\/T8YnPBqbfl","accountName":"Linux_Mint","date":"Thu May 07 10:34:57 CEST 2015","retweetCount":6,"favoritesCount":6}
+{"text":"PrivateInternetAccess becomes Linux Mint’s main sponsor http:\/\/t.co\/8hsuj2xtfW","accountName":"Linux_Mint","date":"Tue Apr 14 12:32:54 CEST 2015","retweetCount":25,"favoritesCount":13}
+{"text":"LMDE 2 \"Betsy\" MATE released! http:\/\/t.co\/hnfCe0IRHx","accountName":"Linux_Mint","date":"Fri Apr 10 12:17:17 CEST 2015","retweetCount":22,"favoritesCount":12}
+{"text":"LMDE 2 \"Betsy\" Cinnamon released! http:\/\/t.co\/nqn4VgkZU1","accountName":"Linux_Mint","date":"Fri Apr 10 12:17:01 CEST 2015","retweetCount":39,"favoritesCount":14}
+{"text":"Linux Mint 17.2 codenamed 'Rafaela' http:\/\/t.co\/ldQJY04ofi","accountName":"Linux_Mint","date":"Wed Apr 08 10:14:13 CEST 2015","retweetCount":37,"favoritesCount":23}
+{"text":"MintBox Mini - News http:\/\/t.co\/KlFshRLPcc","accountName":"Linux_Mint","date":"Tue Apr 07 14:12:16 CEST 2015","retweetCount":13,"favoritesCount":12}
+{"text":"Monthly News - March 2015 http:\/\/t.co\/fIrzCQxhL0","accountName":"Linux_Mint","date":"Mon Mar 30 13:37:01 CEST 2015","retweetCount":12,"favoritesCount":11}
+{"text":"LMDE 2 \"Betsy\" MATE RC released! http:\/\/t.co\/yuk9WKSAhp","accountName":"Linux_Mint","date":"Wed Mar 18 12:08:44 CET 2015","retweetCount":17,"favoritesCount":8}
+{"text":"LMDE 2 \"Betsy\" Cinnamon RC released! http:\/\/t.co\/ID2g4lrjWQ","accountName":"Linux_Mint","date":"Wed Mar 18 12:08:36 CET 2015","retweetCount":14,"favoritesCount":10}
+{"text":"LMDE 2 passes QA, coming as RC http:\/\/t.co\/fPEHEjza6J","accountName":"Linux_Mint","date":"Mon Mar 16 14:32:08 CET 2015","retweetCount":15,"favoritesCount":8}
+{"text":"LMDE 2 to feature Blueberry, a cross-DE Bluetooth configuration tool http:\/\/t.co\/OXIQRD6UBy","accountName":"Linux_Mint","date":"Thu Mar 12 14:28:35 CET 2015","retweetCount":7,"favoritesCount":9}
+{"text":"Some new about the development of LMDE 2 Betsy http:\/\/t.co\/iYXaZzvaBi","accountName":"Linux_Mint","date":"Thu Mar 05 09:50:06 CET 2015","retweetCount":8,"favoritesCount":6}
+{"text":"Monthly News - February 2015 http:\/\/t.co\/ArUVNbsh7V","accountName":"Linux_Mint","date":"Mon Feb 23 14:31:14 CET 2015","retweetCount":7,"favoritesCount":6}
+{"text":"A preview of multiple panels, search providers and other improvements coming in Cinnamon 2.6 http:\/\/t.co\/mtnSEdP5vm","accountName":"Linux_Mint","date":"Sat Feb 21 11:51:20 CET 2015","retweetCount":25,"favoritesCount":21}
+{"text":"About Betsy http:\/\/t.co\/k3SPgfiPhm","accountName":"Linux_Mint","date":"Fri Feb 06 12:05:53 CET 2015","retweetCount":7,"favoritesCount":13}
+{"text":"Monthly News - January 2015 http:\/\/t.co\/T3NtLIO8Nu","accountName":"Linux_Mint","date":"Tue Jan 20 12:22:29 CET 2015","retweetCount":5,"favoritesCount":6}
+{"text":"Introducing the MintBox Mini http:\/\/t.co\/O3lKYs1sGK http:\/\/t.co\/PFHA2Vjtty","accountName":"Linux_Mint","date":"Thu Jan 15 13:55:38 CET 2015","retweetCount":146,"favoritesCount":105}
+{"text":"Upgrade path from 17 to 17.1 now open for all editions http:\/\/t.co\/D6a77hNF9R","accountName":"Linux_Mint","date":"Sun Jan 11 12:09:57 CET 2015","retweetCount":33,"favoritesCount":20}
+{"text":"Linux Mint 17.1 \"Rebecca\" Xfce released! http:\/\/t.co\/o6c6sUwrvf","accountName":"Linux_Mint","date":"Sun Jan 11 11:36:34 CET 2015","retweetCount":41,"favoritesCount":22}
+{"text":"Linux Mint 17.1 \"Rebecca\" KDE released! http:\/\/t.co\/4P0xMVDaCX","accountName":"Linux_Mint","date":"Thu Jan 08 13:49:41 CET 2015","retweetCount":43,"favoritesCount":17}
+{"text":"Linux Mint 17.1 \"Rebecca\" KDE RC released! http:\/\/t.co\/CLHjM6McXy","accountName":"Linux_Mint","date":"Wed Dec 17 12:42:25 CET 2014","retweetCount":29,"favoritesCount":18}
+{"text":"Linux Mint 17.1 \"Rebecca\" Xfce RC released! http:\/\/t.co\/EljaS6RqHI","accountName":"Linux_Mint","date":"Wed Dec 17 12:40:40 CET 2014","retweetCount":31,"favoritesCount":16}
+{"text":"Monthly News: November 2014 http:\/\/t.co\/yVc5g1Osrw","accountName":"Linux_Mint","date":"Sat Dec 13 17:46:32 CET 2014","retweetCount":8,"favoritesCount":9}
+{"text":"Linux Mint 17.1 OEM images available http:\/\/t.co\/cLN7QZK4FW","accountName":"Linux_Mint","date":"Sat Dec 06 14:23:39 CET 2014","retweetCount":25,"favoritesCount":12}
+{"text":"How to upgrade from Linux Mint 17 to 17.1 http:\/\/t.co\/NRa4V3eely","accountName":"Linux_Mint","date":"Sat Dec 06 14:22:25 CET 2014","retweetCount":40,"favoritesCount":24}
+{"text":"Linux Mint 17.1 \"Rebecca\" Cinnamon released! http:\/\/t.co\/SXLnBm2vsH","accountName":"Linux_Mint","date":"Sat Nov 29 19:03:26 CET 2014","retweetCount":110,"favoritesCount":46}
+{"text":"Linux Mint 17.1 \"Rebecca\" MATE released! http:\/\/t.co\/n9DJCzy3c7","accountName":"Linux_Mint","date":"Sat Nov 29 19:01:04 CET 2014","retweetCount":49,"favoritesCount":20}
+{"text":"Linux Mint 17.1 “Rebecca” Cinnamon RC released! http:\/\/t.co\/Yrr8FiQEyQ","accountName":"Linux_Mint","date":"Sat Nov 15 18:59:00 CET 2014","retweetCount":63,"favoritesCount":35}
+{"text":"Linux Mint 17.1 “Rebecca” MATE RC released! http:\/\/t.co\/35KKEs6NL1","accountName":"Linux_Mint","date":"Sat Nov 15 18:56:45 CET 2014","retweetCount":34,"favoritesCount":18}
+{"text":"Monthly News: October 2014 http:\/\/t.co\/sHj0UHCcew","accountName":"Linux_Mint","date":"Fri Nov 14 11:27:39 CET 2014","retweetCount":9,"favoritesCount":5}
+{"text":"Monthly News: September 2014 http:\/\/t.co\/j0jcUMoYEk","accountName":"Linux_Mint","date":"Fri Oct 10 14:27:27 CEST 2014","retweetCount":8,"favoritesCount":6}
+{"text":"Monthly News: August 2014 http:\/\/t.co\/uLBD5kff3Y","accountName":"Linux_Mint","date":"Mon Sep 08 17:47:59 CEST 2014","retweetCount":7,"favoritesCount":4}
+{"text":"Monthly News: July 2014 http:\/\/t.co\/gUNv8GXPqf","accountName":"Linux_Mint","date":"Thu Aug 07 14:30:03 CEST 2014","retweetCount":6,"favoritesCount":2}
+{"text":"Monthly News: June 2014 http:\/\/t.co\/Xk2RMc5dWX","accountName":"Linux_Mint","date":"Mon Jul 14 13:09:15 CEST 2014","retweetCount":4,"favoritesCount":8}
+{"text":"@mfukar Thanks :)","accountName":"Linux_Mint","date":"Thu Jun 26 12:10:35 CEST 2014","retweetCount":0,"favoritesCount":1}
+{"text":"Linux Mint 17 \"Qiana\" Xfce it out! http:\/\/t.co\/KLuAecgey2","accountName":"Linux_Mint","date":"Thu Jun 26 12:09:56 CEST 2014","retweetCount":47,"favoritesCount":21}
+{"text":"Linux Mint 17 \"Qiana\" KDE is out! http:\/\/t.co\/S5m4Ti3TRf","accountName":"Linux_Mint","date":"Mon Jun 23 12:02:31 CEST 2014","retweetCount":49,"favoritesCount":28}
+{"text":"RT @kdecommunity: Contribute to KDE Randa Meetings 2014! The biggest KDE sprint of the year needs your help! http:\/\/t.co\/I6Q1fiwZDs","accountName":"Linux_Mint","date":"Fri Jun 20 15:47:35 CEST 2014","retweetCount":42,"favoritesCount":0}
+{"text":"Linux Mint 17 \"Qiana\" Xfce RC is out: http:\/\/t.co\/Amgwd9P40S","accountName":"Linux_Mint","date":"Sun Jun 15 13:07:35 CEST 2014","retweetCount":45,"favoritesCount":22}
+{"text":"Linux Mint 17 \"Qiana\" KDE RC is out: http:\/\/t.co\/16X8xIP0Fg","accountName":"Linux_Mint","date":"Thu Jun 12 15:22:17 CEST 2014","retweetCount":36,"favoritesCount":18}
+{"text":"Monthly News: May 2014 http:\/\/t.co\/cmGWQqZ0oK","accountName":"Linux_Mint","date":"Mon Jun 09 18:24:05 CEST 2014","retweetCount":4,"favoritesCount":5}
+{"text":"Linux Mint 17 \"Qiana\" MATE is out: http:\/\/t.co\/JqIhiBFu3j","accountName":"Linux_Mint","date":"Sat May 31 12:59:43 CEST 2014","retweetCount":92,"favoritesCount":27}
+{"text":"Linux Mint 17 \"Qiana\" Cinnamon is out: http:\/\/t.co\/LlczoiWQgy","accountName":"Linux_Mint","date":"Sat May 31 12:59:18 CEST 2014","retweetCount":161,"favoritesCount":48}
+{"text":"Linux Mint 17 \"Qiana\" MATE RC is out: http:\/\/t.co\/i2h89c5ajU","accountName":"Linux_Mint","date":"Fri May 16 13:40:51 CEST 2014","retweetCount":52,"favoritesCount":23}
+{"text":"Linux Mint 17 \"Qiana\" Cinnamon RC is out: http:\/\/t.co\/K1vCSRE3mL","accountName":"Linux_Mint","date":"Fri May 16 13:40:31 CEST 2014","retweetCount":55,"favoritesCount":24}
+{"text":"Monthly News: April 2014 http:\/\/t.co\/qio9zbeYBO","accountName":"Linux_Mint","date":"Wed May 14 14:01:14 CEST 2014","retweetCount":4,"favoritesCount":6}
+{"text":"Monthly News: March 2014 http:\/\/t.co\/ixhgA7bZgX","accountName":"Linux_Mint","date":"Sun Apr 13 14:39:02 CEST 2014","retweetCount":5,"favoritesCount":4}
+{"text":"Monthly News: February 2014 http:\/\/t.co\/dg8TsUq5TA","accountName":"Linux_Mint","date":"Sun Apr 13 14:37:52 CEST 2014","retweetCount":2,"favoritesCount":1}
+{"text":"http:\/\/t.co\/dRwHhfDPKF to support Linux http:\/\/t.co\/DAJVgJVFQF","accountName":"Linux_Mint","date":"Fri Mar 21 17:19:46 CET 2014","retweetCount":20,"favoritesCount":13}
+{"text":"MintBox 2 available in Europe http:\/\/t.co\/Rzqzrip2r7","accountName":"Linux_Mint","date":"Fri Mar 21 13:29:42 CET 2014","retweetCount":7,"favoritesCount":6}
+{"text":"Linux Mint 17 codenamed “Qiana” http:\/\/t.co\/OU0U0ccQ7J","accountName":"Linux_Mint","date":"Fri Mar 21 13:28:55 CET 2014","retweetCount":54,"favoritesCount":18}
+{"text":"Happy St. Patrick’s Day To All http:\/\/t.co\/1r4IgWUYSH","accountName":"Linux_Mint","date":"Fri Mar 14 15:02:06 CET 2014","retweetCount":13,"favoritesCount":5}
+{"text":"LMDE 201403 released! http:\/\/t.co\/qlTFWpNEtB","accountName":"Linux_Mint","date":"Sun Mar 02 14:17:31 CET 2014","retweetCount":70,"favoritesCount":24}
+{"text":"LMDE 201403 RC released! http:\/\/t.co\/o9wlrX82fV","accountName":"Linux_Mint","date":"Sat Feb 22 16:15:19 CET 2014","retweetCount":35,"favoritesCount":12}
+{"text":"Monthly News: January 2014 http:\/\/t.co\/yGpCyRJ9RO","accountName":"Linux_Mint","date":"Wed Feb 12 15:12:55 CET 2014","retweetCount":6,"favoritesCount":3}
+{"text":"Monthly News: December 2013 http:\/\/t.co\/SUYlwTwF4c","accountName":"Linux_Mint","date":"Wed Feb 12 15:06:00 CET 2014","retweetCount":4,"favoritesCount":0}
+{"text":"Linux Mint 16 \"Petra\" Xfce released! http:\/\/t.co\/eWONlSz7ga","accountName":"Linux_Mint","date":"Sun Dec 22 16:22:22 CET 2013","retweetCount":54,"favoritesCount":18}
+{"text":"Linux Mint 16 \"Petra\" KDE released! http:\/\/t.co\/VaAQ5RL3DA","accountName":"Linux_Mint","date":"Sun Dec 22 16:21:41 CET 2013","retweetCount":62,"favoritesCount":18}
+{"text":"Petra backports available in Linux Mint 13 http:\/\/t.co\/cLltbjug8v","accountName":"Linux_Mint","date":"Tue Dec 17 15:29:57 CET 2013","retweetCount":21,"favoritesCount":7}
+{"text":"Linux Mint 16 \"Petra\" Xfce RC released http:\/\/t.co\/3l2HresXtK","accountName":"Linux_Mint","date":"Tue Dec 10 11:31:49 CET 2013","retweetCount":24,"favoritesCount":11}
+{"text":"Linux Mint 16 \"Petra\" KDE RC released http:\/\/t.co\/YMyLuTxkIZ","accountName":"Linux_Mint","date":"Sun Dec 08 16:12:59 CET 2013","retweetCount":29,"favoritesCount":13}
+{"text":"Monthly News: November 2013 http:\/\/t.co\/553qsL3VLw","accountName":"Linux_Mint","date":"Fri Dec 06 14:31:29 CET 2013","retweetCount":5,"favoritesCount":4}
+{"text":"Linux Mint 16 \"Petra\" OEM images available http:\/\/t.co\/BhVuw1INJc","accountName":"Linux_Mint","date":"Fri Dec 06 12:16:47 CET 2013","retweetCount":20,"favoritesCount":11}
+{"text":"Linux Mint 16 \"Petra\" MATE released http:\/\/t.co\/bNsua5zKlz","accountName":"Linux_Mint","date":"Sat Nov 30 12:25:38 CET 2013","retweetCount":81,"favoritesCount":25}
+{"text":"Linux Mint 16 \"Petra\" Cinnamon released http:\/\/t.co\/zmu5hx4pDZ","accountName":"Linux_Mint","date":"Sat Nov 30 12:25:15 CET 2013","retweetCount":131,"favoritesCount":33}
+{"text":"Linux Mint 16 \"Petra\" MATE RC released http:\/\/t.co\/f0WXxdlHbV","accountName":"Linux_Mint","date":"Fri Nov 15 17:47:30 CET 2013","retweetCount":50,"favoritesCount":12}
+{"text":"Linux Mint 16 \"Petra\" Cinnamon RC released http:\/\/t.co\/spC6TT4dOu","accountName":"Linux_Mint","date":"Fri Nov 15 17:47:06 CET 2013","retweetCount":78,"favoritesCount":18}
+{"text":"Monthly News: October 2013 http:\/\/t.co\/iwzmRRU8Mx","accountName":"Linux_Mint","date":"Wed Nov 13 17:55:56 CET 2013","retweetCount":7,"favoritesCount":2}
+{"text":"Monthly News: September 2013 http:\/\/t.co\/fZentUUyR7","accountName":"Linux_Mint","date":"Wed Nov 13 17:55:28 CET 2013","retweetCount":4,"favoritesCount":2}
+{"text":"Cinnamon 2.0 released! http:\/\/t.co\/lkip6tmzjf","accountName":"Linux_Mint","date":"Thu Oct 10 18:02:21 CEST 2013","retweetCount":81,"favoritesCount":13}
+{"text":"MintBox 2 is out! http:\/\/t.co\/yt8jbqWnxm","accountName":"Linux_Mint","date":"Fri Sep 13 13:56:19 CEST 2013","retweetCount":37,"favoritesCount":12}
+{"text":"Monthly News: August 2013 http:\/\/t.co\/1N3H8VqYlD","accountName":"Linux_Mint","date":"Tue Sep 10 11:47:30 CEST 2013","retweetCount":6,"favoritesCount":1}
+{"text":"Monthly News: July 2013 http:\/\/t.co\/FXDcvLxsyS","accountName":"Linux_Mint","date":"Fri Aug 30 13:42:43 CEST 2013","retweetCount":4,"favoritesCount":3}
+{"text":"Monthly News: June 2013 http:\/\/t.co\/byD6qY0AjI","accountName":"Linux_Mint","date":"Sat Aug 10 13:12:11 CEST 2013","retweetCount":9,"favoritesCount":2}
+{"text":"Linux Mint 15 \"Olivia\" KDE released! http:\/\/t.co\/x9LXiqKzvm","accountName":"Linux_Mint","date":"Sun Jul 21 20:14:16 CEST 2013","retweetCount":68,"favoritesCount":18}
+{"text":"Linux Mint 15 Xfce released! http:\/\/t.co\/ZwcN66lacL","accountName":"Linux_Mint","date":"Fri Jul 12 16:01:32 CEST 2013","retweetCount":49,"favoritesCount":12}
+{"text":"A preview of the new MintBox http:\/\/t.co\/m1OuTi1IBE","accountName":"Linux_Mint","date":"Thu Jun 27 17:18:54 CEST 2013","retweetCount":21,"favoritesCount":2}
+{"text":"Linux Mint 15 \"Xfce\" RC released! http:\/\/t.co\/jQOfwX03Xa","accountName":"Linux_Mint","date":"Mon Jun 24 14:03:56 CEST 2013","retweetCount":34,"favoritesCount":7}
+{"text":"Linux Mint 15 KDE RC released! http:\/\/t.co\/yemC7MgUOH","accountName":"Linux_Mint","date":"Sun Jun 23 15:17:52 CEST 2013","retweetCount":35,"favoritesCount":14}
+{"text":"Linux Mint 16 will be named \"Petra\" http:\/\/t.co\/dXxDhpFDCt","accountName":"Linux_Mint","date":"Sat Jun 22 17:12:09 CEST 2013","retweetCount":73,"favoritesCount":20}
+{"text":"Monthly News: May 2013 http:\/\/t.co\/7fJyhySXW6","accountName":"Linux_Mint","date":"Thu Jun 13 16:08:57 CEST 2013","retweetCount":7,"favoritesCount":3}
+{"text":"Linux Mint 15 \"Olivia\" released! http:\/\/t.co\/q7Newo0azj","accountName":"Linux_Mint","date":"Wed May 29 19:25:58 CEST 2013","retweetCount":228,"favoritesCount":40}
+{"text":"Linux Mint 15 \"Olivia\" RC released! http:\/\/t.co\/mHU37sQjAd","accountName":"Linux_Mint","date":"Thu May 16 14:48:30 CEST 2013","retweetCount":121,"favoritesCount":26}
+{"text":"Monthly News: April 2013 http:\/\/t.co\/uMVXqiKADb","accountName":"Linux_Mint","date":"Fri May 03 19:20:47 CEST 2013","retweetCount":12,"favoritesCount":7}
+{"text":"Linux Mint Debian 201303 released: http:\/\/t.co\/joH4glmvi3","accountName":"Linux_Mint","date":"Fri Mar 22 13:47:13 CET 2013","retweetCount":48,"favoritesCount":9}
+{"text":"Monthly Stats: February 2013 http:\/\/t.co\/WbnFpnroxR","accountName":"Linux_Mint","date":"Thu Mar 21 15:08:35 CET 2013","retweetCount":8,"favoritesCount":1}
+{"text":"HTML5 Login Screens with MDM: http:\/\/t.co\/FYjf87nf01","accountName":"Linux_Mint","date":"Wed Feb 27 15:46:40 CET 2013","retweetCount":29,"favoritesCount":18}
+{"text":"Monthly Stats: January 2013 http:\/\/t.co\/2LiFkGPRfu","accountName":"Linux_Mint","date":"Sun Feb 24 19:57:59 CET 2013","retweetCount":9,"favoritesCount":3}
+{"text":"LMDE 201303 RC released: http:\/\/t.co\/KcArm6ML5v","accountName":"Linux_Mint","date":"Sat Feb 23 18:16:00 CET 2013","retweetCount":43,"favoritesCount":7}
+{"text":"20% off mintBox Basic http:\/\/t.co\/6umxtzTi","accountName":"Linux_Mint","date":"Tue Jan 29 17:06:49 CET 2013","retweetCount":13,"favoritesCount":2}
+{"text":"Steam and gaming in Linux Mint http:\/\/t.co\/iTx7eSwb","accountName":"Linux_Mint","date":"Mon Jan 28 19:05:16 CET 2013","retweetCount":36,"favoritesCount":6}
+{"text":"Linux Mint 15 \"Olivia\" http:\/\/t.co\/Kfv1CRHL","accountName":"Linux_Mint","date":"Mon Jan 28 15:38:31 CET 2013","retweetCount":59,"favoritesCount":11}
+{"text":"Monthly Stats: December 2012 http:\/\/t.co\/kdIT5PLJ","accountName":"Linux_Mint","date":"Mon Jan 28 15:18:56 CET 2013","retweetCount":6,"favoritesCount":1}
+{"text":"Linux Mint 14 KDE released! http:\/\/t.co\/yuTDhRGu","accountName":"Linux_Mint","date":"Sun Dec 23 11:19:46 CET 2012","retweetCount":53,"favoritesCount":10}
+{"text":"Linux Mint 14 Xfce released! http:\/\/t.co\/Nysz64Zn","accountName":"Linux_Mint","date":"Fri Dec 21 12:05:24 CET 2012","retweetCount":46,"favoritesCount":6}
+{"text":"LMDE Update Pack 6 released! http:\/\/t.co\/soN0ec9Q","accountName":"Linux_Mint","date":"Wed Dec 19 17:50:34 CET 2012","retweetCount":34,"favoritesCount":3}
+{"text":"Linux Mint 14 OEM released! http:\/\/t.co\/T41vg5r3","accountName":"Linux_Mint","date":"Mon Dec 10 11:54:57 CET 2012","retweetCount":39,"favoritesCount":7}
+{"text":"Linux Mint 14 \"Nadia\" Xfce RC released! http:\/\/t.co\/HT3Brmn5","accountName":"Linux_Mint","date":"Thu Dec 06 14:05:54 CET 2012","retweetCount":36,"favoritesCount":12}
+{"text":"Linux Mint 14 \"Nadia\" KDE RC released! http:\/\/t.co\/C53A4SGl","accountName":"Linux_Mint","date":"Wed Dec 05 18:52:16 CET 2012","retweetCount":30,"favoritesCount":2}
+{"text":"Monthly Stats - November 2012: http:\/\/t.co\/fH9N8CJ0","accountName":"Linux_Mint","date":"Wed Dec 05 15:15:08 CET 2012","retweetCount":2,"favoritesCount":2}
+{"text":"Nadia \"14.1\" ISO respins http:\/\/t.co\/qvFumVgI","accountName":"Linux_Mint","date":"Fri Nov 30 13:00:33 CET 2012","retweetCount":31,"favoritesCount":8}
+{"text":"Nadia backports available in Linux Mint 13: http:\/\/t.co\/CyM0iPWD","accountName":"Linux_Mint","date":"Sat Nov 24 20:07:04 CET 2012","retweetCount":23,"favoritesCount":7}
+{"text":"Linux Mint 14 \"Nadia\" released! http:\/\/t.co\/eUbsh5UY","accountName":"Linux_Mint","date":"Tue Nov 20 17:28:38 CET 2012","retweetCount":151,"favoritesCount":24}
+{"text":"Linux Mint 14 \"Nadia\" RC released! http:\/\/t.co\/84qP6jJW","accountName":"Linux_Mint","date":"Sun Nov 11 20:05:26 CET 2012","retweetCount":112,"favoritesCount":18}
+{"text":"Monthly Stats - October 2012: http:\/\/t.co\/9RrqzOq4","accountName":"Linux_Mint","date":"Fri Nov 09 12:39:24 CET 2012","retweetCount":4,"favoritesCount":2}
+{"text":"The Linux Mint Store is now open: http:\/\/t.co\/mQ9BD6wE","accountName":"Linux_Mint","date":"Tue Oct 30 12:53:25 CET 2012","retweetCount":21,"favoritesCount":6}
+{"text":"Linux Mint signs a partnership with ThinkPenguin: http:\/\/t.co\/4fNZs4Mq","accountName":"Linux_Mint","date":"Tue Oct 30 11:33:43 CET 2012","retweetCount":11,"favoritesCount":2}
+{"text":"Monthly Stats: September 2012: http:\/\/t.co\/BcWjqADH","accountName":"Linux_Mint","date":"Mon Oct 15 12:05:45 CEST 2012","retweetCount":2,"favoritesCount":1}
+{"text":"Cinnamon 1.6.1 released: http:\/\/t.co\/6nmKy4Td","accountName":"Linux_Mint","date":"Thu Sep 27 16:00:23 CEST 2012","retweetCount":44,"favoritesCount":2}
+{"text":"Cinnamon 1.6 in romeo: http:\/\/t.co\/CVrgzWAz","accountName":"Linux_Mint","date":"Wed Sep 19 15:32:42 CEST 2012","retweetCount":22,"favoritesCount":6}
+{"text":"Monthly Stats - August 2012: http:\/\/t.co\/zRSxHY7t","accountName":"Linux_Mint","date":"Fri Sep 07 16:40:07 CEST 2012","retweetCount":2,"favoritesCount":0}
+{"text":"Nemo, Cinnamon 1.6 and MATE 1.4: http:\/\/t.co\/ZR1XDk0l","accountName":"Linux_Mint","date":"Tue Sep 04 12:40:31 CEST 2012","retweetCount":30,"favoritesCount":7}
+{"text":"Linux Mint 14 codenamed \"Nadia\": http:\/\/t.co\/fnDEf07k","accountName":"Linux_Mint","date":"Fri Aug 24 15:15:50 CEST 2012","retweetCount":69,"favoritesCount":6}
+{"text":"Monthly Stats - July 2012 http:\/\/t.co\/EgmrFrkM","accountName":"Linux_Mint","date":"Tue Aug 07 13:45:24 CEST 2012","retweetCount":5,"favoritesCount":0}
+{"text":"Monthly Stats - June 2012 http:\/\/t.co\/sLTf1LBx","accountName":"Linux_Mint","date":"Tue Aug 07 13:45:03 CEST 2012","retweetCount":0,"favoritesCount":0}
+{"text":"LMDE's \"gnome2-frozen\" repository discontinued: http:\/\/t.co\/NexQV7ud","accountName":"Linux_Mint","date":"Tue Jul 31 17:55:19 CEST 2012","retweetCount":18,"favoritesCount":2}
+{"text":"Linux Mint 13 KDE released! http:\/\/t.co\/SPq9kTsW","accountName":"Linux_Mint","date":"Mon Jul 23 13:00:25 CEST 2012","retweetCount":62,"favoritesCount":9}
+{"text":"Linux Mint 13 Xfce released! http:\/\/t.co\/PTO5i98f","accountName":"Linux_Mint","date":"Sat Jul 21 19:45:45 CEST 2012","retweetCount":89,"favoritesCount":11}
+{"text":"Linux Mint 13 KDE RC released! http:\/\/t.co\/tuCoSHA1","accountName":"Linux_Mint","date":"Fri Jul 13 14:28:10 CEST 2012","retweetCount":37,"favoritesCount":10}
+{"text":"Linux Mint 13 Xfce RC released! http:\/\/t.co\/vRxCXsVy","accountName":"Linux_Mint","date":"Fri Jun 29 21:22:26 CEST 2012","retweetCount":54,"favoritesCount":6}
+{"text":"Introducing the mintBox: http:\/\/t.co\/l3JSlLTW","accountName":"Linux_Mint","date":"Fri Jun 08 11:18:35 CEST 2012","retweetCount":67,"favoritesCount":6}
+{"text":"Monthly Stats - May 2012: http:\/\/t.co\/O6T9G5cj","accountName":"Linux_Mint","date":"Fri Jun 01 12:42:06 CEST 2012","retweetCount":4,"favoritesCount":0}
+{"text":"Linux Mint 13 OEM images available: http:\/\/t.co\/CWKcrj2d","accountName":"Linux_Mint","date":"Fri Jun 01 11:39:51 CEST 2012","retweetCount":22,"favoritesCount":5}
+{"text":"Mint 13 Reviews Roundup: http:\/\/t.co\/yyBvrEcC","accountName":"Linux_Mint","date":"Thu May 31 16:53:27 CEST 2012","retweetCount":31,"favoritesCount":6}
+{"text":"Linux Mint 13 \"Maya\" released: http:\/\/t.co\/ndpmlHcv","accountName":"Linux_Mint","date":"Wed May 23 18:07:18 CEST 2012","retweetCount":180,"favoritesCount":19}
+{"text":"Linux Mint 13 \"Maya\" RC released! http:\/\/t.co\/AYFo9Ah5","accountName":"Linux_Mint","date":"Wed May 16 22:55:00 CEST 2012","retweetCount":97,"favoritesCount":7}
+{"text":"Poll - Desktop Environments: http:\/\/t.co\/vd9PcE41","accountName":"Linux_Mint","date":"Fri Apr 27 13:33:28 CEST 2012","retweetCount":12,"favoritesCount":3}
+{"text":"Linux Mint Debian 201204 released! http:\/\/t.co\/BiNJCBRj","accountName":"Linux_Mint","date":"Tue Apr 24 16:57:54 CEST 2012","retweetCount":73,"favoritesCount":6}
+{"text":"Latest News: http:\/\/t.co\/nskti7g9","accountName":"Linux_Mint","date":"Thu Apr 19 15:37:17 CEST 2012","retweetCount":15,"favoritesCount":1}
+{"text":"Linux Mint Debian 201204 RC (MATE\/Cinnamon & Xfce) Released: http:\/\/t.co\/hpbZkbUe","accountName":"Linux_Mint","date":"Wed Apr 11 19:46:02 CEST 2012","retweetCount":37,"favoritesCount":6}
+{"text":"Update Pack 4 is out: http:\/\/t.co\/mzVc1TCo","accountName":"Linux_Mint","date":"Thu Apr 05 17:27:01 CEST 2012","retweetCount":29,"favoritesCount":4}
+{"text":"LMDE Update Pack 4 and alternatives to Gnome 2: http:\/\/t.co\/uG7vyIqo","accountName":"Linux_Mint","date":"Sun Mar 25 20:48:55 CEST 2012","retweetCount":34,"favoritesCount":7}
+{"text":"Linux Mint 12 LXDE released: http:\/\/t.co\/v0uo5tn9","accountName":"Linux_Mint","date":"Fri Mar 09 11:39:06 CET 2012","retweetCount":57,"favoritesCount":8}
+{"text":"Linux Mint 12 LXDE RC released: http:\/\/t.co\/BXjomeeo","accountName":"Linux_Mint","date":"Mon Feb 27 15:43:59 CET 2012","retweetCount":49,"favoritesCount":1}
+{"text":"Linux Mint 12 KDE released! http:\/\/t.co\/eEAJ3CSR","accountName":"Linux_Mint","date":"Fri Feb 03 15:49:40 CET 2012","retweetCount":53,"favoritesCount":3}
+{"text":"Monthly Stats - January 2012: http:\/\/t.co\/JYMAZq8f","accountName":"Linux_Mint","date":"Fri Feb 03 13:17:31 CET 2012","retweetCount":5,"favoritesCount":0}
+{"text":"Monthly Stats - December 2011: http:\/\/t.co\/DiVLYEgZ","accountName":"Linux_Mint","date":"Fri Feb 03 13:17:01 CET 2012","retweetCount":4,"favoritesCount":0}
+{"text":"Linux Mint 12 KDE RC released! http:\/\/t.co\/lA5QUbun","accountName":"Linux_Mint","date":"Wed Jan 11 13:03:23 CET 2012","retweetCount":35,"favoritesCount":5}
+{"text":"Linux Mint signs a partnership with Blue Systems: http:\/\/t.co\/tlwUhAdA","accountName":"Linux_Mint","date":"Sat Jan 07 14:44:44 CET 2012","retweetCount":17,"favoritesCount":4}
+{"text":"RT @mintcast: mintCast 96: TWWL Redux has arrived. The first podcast of 2012 revisits The Wonderful World of Linux. http:\/\/t.co\/UrhtlKCy","accountName":"Linux_Mint","date":"Sat Jan 07 14:44:22 CET 2012","retweetCount":7,"favoritesCount":0}
+{"text":"Introducing Cinnamon: http:\/\/t.co\/xvvnV5Mv","accountName":"Linux_Mint","date":"Mon Jan 02 18:31:40 CET 2012","retweetCount":62,"favoritesCount":13}
+{"text":"RT @mintcast: Episode 94 of mintCast - Listener Feedback is ready for your feedback http:\/\/t.co\/xG3ZiA4U","accountName":"Linux_Mint","date":"Mon Jan 02 18:31:23 CET 2012","retweetCount":8,"favoritesCount":0}
+{"text":"RT @mintcast: mintCast Episode 95: The Year in Review (2011, that is) is ready. Our longest one so far, but a holiday's coming! http:\/\/t ...","accountName":"Linux_Mint","date":"Mon Jan 02 18:31:20 CET 2012","retweetCount":4,"favoritesCount":0}
+{"text":"Monthly Stats - November 2011 http:\/\/t.co\/Pdp9fSiO","accountName":"Linux_Mint","date":"Tue Dec 06 16:27:05 CET 2011","retweetCount":6,"favoritesCount":0}
+{"text":"RT @mintcast: mintCast 93 (Podcatchers) is out! We're tossing a new mintCast out for you to catch. http:\/\/t.co\/TARswfzg","accountName":"Linux_Mint","date":"Tue Dec 06 16:26:46 CET 2011","retweetCount":6,"favoritesCount":0}
+{"text":"eUKhost provides Linux Mint with a new server: http:\/\/t.co\/7ZZzJlkW","accountName":"Linux_Mint","date":"Thu Dec 01 19:41:43 CET 2011","retweetCount":3,"favoritesCount":2}
+{"text":"Important fix for MATE - Feedback needed: http:\/\/t.co\/rhlbTu5Z","accountName":"Linux_Mint","date":"Thu Dec 01 18:31:53 CET 2011","retweetCount":7,"favoritesCount":3}
+{"text":"Linux Mint 12 \"Lisa\" released! http:\/\/t.co\/oon2BJ8Z","accountName":"Linux_Mint","date":"Sat Nov 26 16:04:44 CET 2011","retweetCount":172,"favoritesCount":15}
+{"text":"Linux Mint signs a partnership with DuckDuckGo: http:\/\/t.co\/DR4jscCx","accountName":"Linux_Mint","date":"Sat Nov 26 14:10:29 CET 2011","retweetCount":49,"favoritesCount":8}
+{"text":"RT @mintcast: mintCast 92: Photo Managers is ready for consumption (save room for turkey too!) http:\/\/t.co\/dJAWwtkf","accountName":"Linux_Mint","date":"Sat Nov 26 14:10:09 CET 2011","retweetCount":3,"favoritesCount":0}
+{"text":"Misc. News: http:\/\/t.co\/Mtp0MG2O","accountName":"Linux_Mint","date":"Fri Nov 18 16:52:16 CET 2011","retweetCount":8,"favoritesCount":1}
+{"text":"RT @mintcast: mintCast 91 - Mint 12 RC has arrived. (Both the episode and the RC!)  http:\/\/t.co\/AY27G9od","accountName":"Linux_Mint","date":"Fri Nov 18 16:52:09 CET 2011","retweetCount":6,"favoritesCount":0}
+{"text":"Linux Mint 12 \"Lisa\" RC released! http:\/\/t.co\/2mI0AiEm","accountName":"Linux_Mint","date":"Sat Nov 12 12:10:56 CET 2011","retweetCount":102,"favoritesCount":7}
+{"text":"Monthly Stats - October 2011 http:\/\/t.co\/zsG1GWxE","accountName":"Linux_Mint","date":"Thu Nov 10 16:01:05 CET 2011","retweetCount":2,"favoritesCount":0}
+{"text":"Linux Mint 12 Preview: http:\/\/t.co\/8h7R03h5","accountName":"Linux_Mint","date":"Fri Nov 04 18:45:30 CET 2011","retweetCount":55,"favoritesCount":8}
+{"text":"RT @mintcast: Charles is back to talk about Writing! Check out mintCast #89. http:\/\/t.co\/sovXKiOd","accountName":"Linux_Mint","date":"Fri Nov 04 18:44:26 CET 2011","retweetCount":1,"favoritesCount":0}
+{"text":"Opera 11.52-1100-1linuxmint upgrade http:\/\/t.co\/hynixwXs","accountName":"Linux_Mint","date":"Fri Oct 21 13:59:07 CEST 2011","retweetCount":7,"favoritesCount":0}
+{"text":"RT @mintcast: mintCast Episode 87 is up...early! You might say it's late on the old schedule, but we're optimists. http:\/\/t.co\/6BSxcYWB","accountName":"Linux_Mint","date":"Fri Oct 21 13:57:11 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"Monthly Stats - September 2011 http:\/\/t.co\/FZrW2pEi","accountName":"Linux_Mint","date":"Mon Oct 10 16:40:31 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"RT @mintcast: You too can be a movie mogul! Check out mintCast 86 \"Movie-Making Magic\" here http:\/\/t.co\/pnN11c7x","accountName":"Linux_Mint","date":"Mon Oct 10 16:40:06 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"New signatures and Donors\/Sponsors interface http:\/\/t.co\/0YZw4LJV","accountName":"Linux_Mint","date":"Thu Oct 06 17:19:55 CEST 2011","retweetCount":1,"favoritesCount":0}
+{"text":"RT @mintcast: The M$ has done it once again and we have a fresh batch of Debain just for you on EP 84, http:\/\/t.co\/zztcSREd","accountName":"Linux_Mint","date":"Thu Oct 06 17:19:31 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"RT @mintcast: More things Linux on the mintCast! http:\/\/t.co\/M92GLnng","accountName":"Linux_Mint","date":"Thu Oct 06 17:19:19 CEST 2011","retweetCount":1,"favoritesCount":0}
+{"text":"LMDE Update Pack 3: http:\/\/t.co\/6Vu5j8YF","accountName":"Linux_Mint","date":"Wed Sep 28 18:20:51 CEST 2011","retweetCount":8,"favoritesCount":2}
+{"text":"Linux Mint signs a partnership with UnixStickers.com: http:\/\/t.co\/B3H84hO5","accountName":"Linux_Mint","date":"Mon Sep 26 15:49:53 CEST 2011","retweetCount":7,"favoritesCount":1}
+{"text":"RT @mintcast: We look at the amazing ecosystem that is Linux this week on mintCast! http:\/\/t.co\/WFmjawof","accountName":"Linux_Mint","date":"Tue Sep 20 10:53:01 CEST 2011","retweetCount":4,"favoritesCount":0}
+{"text":"Linux Mint 201109 Debian (Gnome & Xfce) released: http:\/\/t.co\/hVKbf5b9","accountName":"Linux_Mint","date":"Fri Sep 16 19:29:29 CEST 2011","retweetCount":53,"favoritesCount":8}
+{"text":"RT @mintcast: EP 82 seems to be quite defiant, even reposting it doesn't make it show up in any of the feeds. If someone knows why lets  ...","accountName":"Linux_Mint","date":"Fri Sep 16 19:28:50 CEST 2011","retweetCount":1,"favoritesCount":0}
+{"text":"40% increase in August 2011. Many thanks to all our users for their outstanding support! http:\/\/t.co\/uxzbw8T","accountName":"Linux_Mint","date":"Fri Sep 02 16:51:37 CEST 2011","retweetCount":16,"favoritesCount":1}
+{"text":"RT @mintcast: The Cast break open the Shells this week on @mintcast Ep 79! http:\/\/t.co\/fjXwSjv","accountName":"Linux_Mint","date":"Fri Sep 02 16:50:18 CEST 2011","retweetCount":5,"favoritesCount":0}
+{"text":"RT @mintcast: We visit with Charles and talk about help out you fellow new Linux users. http:\/\/t.co\/yUjl4Ni","accountName":"Linux_Mint","date":"Fri Sep 02 16:50:13 CEST 2011","retweetCount":4,"favoritesCount":0}
+{"text":"LMDE 201108 RC Gnome & Xfce released: http:\/\/t.co\/wfFj3e5","accountName":"Linux_Mint","date":"Thu Aug 18 20:14:24 CEST 2011","retweetCount":15,"favoritesCount":1}
+{"text":"Linux Mint 11 LXDE released: http:\/\/t.co\/JEfXAZu","accountName":"Linux_Mint","date":"Tue Aug 16 11:02:13 CEST 2011","retweetCount":26,"favoritesCount":6}
+{"text":"RT @mintcast: We talk about compiling on Debian\/Ubuntu\/Mint this week on mintCast Episode 76. http:\/\/t.co\/ZANv8BZ","accountName":"Linux_Mint","date":"Sat Aug 06 14:54:31 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"RT @mintcast: What's unique about Linux Mint and what differentiates it from other Ubuntu\/Mint based distros, this week on @mintcast htt ...","accountName":"Linux_Mint","date":"Sat Aug 06 14:54:19 CEST 2011","retweetCount":9,"favoritesCount":0}
+{"text":"RT @mintcast: We dive into the vast audio framework of Linux this week in Episode 74 of @mintCast. http:\/\/t.co\/vOHYSfj","accountName":"Linux_Mint","date":"Sat Aug 06 14:54:15 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"Monthly Stats - July 2011: http:\/\/t.co\/04EviJN","accountName":"Linux_Mint","date":"Sat Aug 06 14:53:51 CEST 2011","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 11 LXDE RC2 released: http:\/\/t.co\/TNJ1jic","accountName":"Linux_Mint","date":"Thu Jul 14 11:43:15 CEST 2011","retweetCount":14,"favoritesCount":1}
+{"text":"RT @mintcast: The Future of Your Desktop this week on Episode 73 http:\/\/t.co\/rbLfkSY","accountName":"Linux_Mint","date":"Thu Jul 14 11:42:35 CEST 2011","retweetCount":1,"favoritesCount":0}
+{"text":"News about upcoming releases: http:\/\/t.co\/xbg74T7","accountName":"Linux_Mint","date":"Mon Jul 11 14:21:54 CEST 2011","retweetCount":16,"favoritesCount":2}
+{"text":"Linux Mint signs a partnership with AYK Solutions http:\/\/t.co\/OHG6jOH","accountName":"Linux_Mint","date":"Sat Jul 09 14:28:26 CEST 2011","retweetCount":5,"favoritesCount":1}
+{"text":"Introducing Update Packs in Linux Mint Debian: http:\/\/t.co\/fyszkKb","accountName":"Linux_Mint","date":"Tue Jul 05 19:55:40 CEST 2011","retweetCount":15,"favoritesCount":3}
+{"text":"RT @mintcast: Your favorite hosts are back to get things done with Linux Mint 11! This week on Episode 72 of @mintcast http:\/\/t.co\/EWTtWLs","accountName":"Linux_Mint","date":"Tue Jul 05 19:53:16 CEST 2011","retweetCount":4,"favoritesCount":0}
+{"text":"19% increase in June 2011. Many thanks to all our users for their outstanding support! http:\/\/t.co\/U0WZHhC","accountName":"Linux_Mint","date":"Mon Jul 04 16:25:14 CEST 2011","retweetCount":16,"favoritesCount":1}
+{"text":"RT @mintcast: @mintcast Episode 72 will be delayed until Monday July 4th!","accountName":"Linux_Mint","date":"Mon Jul 04 16:21:21 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"Linux Mint 11 LXDE RC released! http:\/\/t.co\/shhf4yL","accountName":"Linux_Mint","date":"Tue Jun 28 15:52:56 CEST 2011","retweetCount":38,"favoritesCount":1}
+{"text":"RT @mintcast: @mintcast Ep 71 GIT it while it's hot! http:\/\/t.co\/bsmIPlH","accountName":"Linux_Mint","date":"Tue Jun 28 15:52:36 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"RT @mintcast: We've got all the package managers this week on @mintcast EP 70!","accountName":"Linux_Mint","date":"Tue Jun 28 15:52:26 CEST 2011","retweetCount":1,"favoritesCount":0}
+{"text":"RT @mintcast: Thanks to @Linux_Format for rating us top three!","accountName":"Linux_Mint","date":"Tue Jun 28 15:52:15 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"RT @mintcast: @mintcast EP 68 is live with Larry Bushey, check it out! http:\/\/bit.ly\/jSZsxd","accountName":"Linux_Mint","date":"Tue Jun 07 03:52:27 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"Monthly Stats - May 2011: http:\/\/blog.linuxmint.com\/?p=1769","accountName":"Linux_Mint","date":"Wed Jun 01 15:54:05 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"Linux Mint 11 released! http:\/\/blog.linuxmint.com\/?p=1760","accountName":"Linux_Mint","date":"Thu May 26 12:48:39 CEST 2011","retweetCount":133,"favoritesCount":3}
+{"text":"RT @mintcast: @mintcast was posted, its about FreeNAS! http:\/\/bit.ly\/mh5R6U","accountName":"Linux_Mint","date":"Thu May 26 12:47:44 CEST 2011","retweetCount":6,"favoritesCount":0}
+{"text":"RT @mintcast: How can you help your fellow @Linux_Mint users? We have the answers on this episode of @mintcast! http:\/\/bit.ly\/ktMexe","accountName":"Linux_Mint","date":"Thu May 26 12:47:40 CEST 2011","retweetCount":5,"favoritesCount":0}
+{"text":"Linux Mint 11 \"Katya\" RC released! http:\/\/blog.linuxmint.com\/?p=1752","accountName":"Linux_Mint","date":"Mon May 09 17:15:57 CEST 2011","retweetCount":60,"favoritesCount":4}
+{"text":"RT @mintcast: Rob drops programming on your ears, this week on @mintcast Ep 64. http:\/\/bit.ly\/kygTii","accountName":"Linux_Mint","date":"Mon May 09 17:13:29 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"Monthly Stats - April 2011: http:\/\/blog.linuxmint.com\/?p=1737","accountName":"Linux_Mint","date":"Sat May 07 12:38:54 CEST 2011","retweetCount":3,"favoritesCount":1}
+{"text":"Linux Mint 11 Preview http:\/\/blog.linuxmint.com\/?p=1746","accountName":"Linux_Mint","date":"Thu May 05 12:54:46 CEST 2011","retweetCount":33,"favoritesCount":4}
+{"text":"RT @mintcast: Turns out mintCast EP 62 was released Monday morning. http:\/\/bit.ly\/mNACkD","accountName":"Linux_Mint","date":"Thu May 05 12:54:23 CEST 2011","retweetCount":1,"favoritesCount":0}
+{"text":"RT @mintcast: We have the scoop on Unity\/Gnome3 in episode 63 of @mintcast! http:\/\/bit.ly\/lxFyKn","accountName":"Linux_Mint","date":"Thu May 05 12:54:18 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"Linux Mint signs a partnership with HELLOTUX http:\/\/blog.linuxmint.com\/?p=1733","accountName":"Linux_Mint","date":"Tue Apr 26 13:24:05 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"Linux Mint 5 LTS Elyssa reached end of life http:\/\/blog.linuxmint.com\/?p=1731","accountName":"Linux_Mint","date":"Mon Apr 25 17:44:01 CEST 2011","retweetCount":16,"favoritesCount":0}
+{"text":"RT @mintcast: @mintcast that's right kids! Episode 61 is on the InterWebs! http:\/\/bit.ly\/frktWk","accountName":"Linux_Mint","date":"Mon Apr 25 17:43:32 CEST 2011","retweetCount":1,"favoritesCount":0}
+{"text":"RT @mintcast: @mintcast was delayed a bit, but now it's piping HOT! http:\/\/www.mintcast.org\/?p=1292","accountName":"Linux_Mint","date":"Mon Apr 25 17:43:28 CEST 2011","retweetCount":2,"favoritesCount":0}
+{"text":"Linux Mint Xfce (201104) released! http:\/\/bit.ly\/eRviDp","accountName":"Linux_Mint","date":"Wed Apr 06 13:18:50 CEST 2011","retweetCount":23,"favoritesCount":4}
+{"text":"Monthly Stats - March 2011: http:\/\/blog.linuxmint.com\/?p=1720","accountName":"Linux_Mint","date":"Tue Apr 05 16:42:32 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"Linux Mint 8 Helena reaches end of life http:\/\/blog.linuxmint.com\/?p=1714","accountName":"Linux_Mint","date":"Mon Apr 04 12:14:50 CEST 2011","retweetCount":12,"favoritesCount":0}
+{"text":"RT @mintcast: @mintcast EP 59 with Kendall Weaver is ready to snatch up from the interwebs! http:\/\/www.mintcast.org\/?p=1278","accountName":"Linux_Mint","date":"Mon Apr 04 11:30:34 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"RT @mintcast: @mintcast EP 58 is up! Check it out. http:\/\/bit.ly\/gnOWdP","accountName":"Linux_Mint","date":"Mon Mar 28 21:33:41 CEST 2011","retweetCount":3,"favoritesCount":0}
+{"text":"Linux Mint Xfce RC (201104) released! http:\/\/bit.ly\/ggnI1k","accountName":"Linux_Mint","date":"Mon Mar 21 19:30:35 CET 2011","retweetCount":20,"favoritesCount":1}
+{"text":"RT @mintcast: @mintcast with Justin is now just a quick click away! http:\/\/www.mintcast.org\/?p=1212","accountName":"Linux_Mint","date":"Mon Mar 21 10:14:34 CET 2011","retweetCount":4,"favoritesCount":0}
+{"text":"Linux Mint 10 LXDE released! http:\/\/bit.ly\/e3eqoH","accountName":"Linux_Mint","date":"Wed Mar 16 18:26:09 CET 2011","retweetCount":20,"favoritesCount":0}
+{"text":"RT @mintcast: Grab some internets, @mintcast episode 56 is live!","accountName":"Linux_Mint","date":"Mon Mar 14 10:50:59 CET 2011","retweetCount":4,"favoritesCount":0}
+{"text":"Linux Mint acquires two new logos: http:\/\/bit.ly\/hhZsp5","accountName":"Linux_Mint","date":"Wed Mar 09 11:59:32 CET 2011","retweetCount":10,"favoritesCount":0}
+{"text":"@Anathaen It's almost there, trying to get it out asap.","accountName":"Linux_Mint","date":"Tue Mar 08 10:25:39 CET 2011","retweetCount":2,"favoritesCount":0}
+{"text":"RT @mintcast: Ep 55 of mintCast has just been released! Get it while it's still piping hot. http:\/\/bit.ly\/hI28ov","accountName":"Linux_Mint","date":"Tue Mar 08 10:24:34 CET 2011","retweetCount":6,"favoritesCount":0}
+{"text":"mintCast interviews Jamie \"Boo\" Birse, maintainer of the Linux Mint KDE edition: http:\/\/bit.ly\/eoxa2S","accountName":"Linux_Mint","date":"Thu Mar 03 16:40:02 CET 2011","retweetCount":8,"favoritesCount":1}
+{"text":"17 questions to know more about Linux Mint users: http:\/\/bit.ly\/e2vtUg","accountName":"Linux_Mint","date":"Wed Mar 02 12:42:03 CET 2011","retweetCount":20,"favoritesCount":1}
+{"text":"Monthly Stats, Linux Mint going up 2.2%: http:\/\/bit.ly\/h2IJtw","accountName":"Linux_Mint","date":"Tue Mar 01 13:40:31 CET 2011","retweetCount":11,"favoritesCount":0}
+{"text":"Linux Mint is now present on Facebook: http:\/\/on.fb.me\/hUvtT4","accountName":"Linux_Mint","date":"Wed Feb 23 16:00:50 CET 2011","retweetCount":14,"favoritesCount":3}
+{"text":"@simkin1982 We're switching the Fluxbox edition to an LMDE base for an even faster desktop with a smaller footprint. Should be out in March.","accountName":"Linux_Mint","date":"Wed Feb 23 13:18:23 CET 2011","retweetCount":1,"favoritesCount":0}
+{"text":"Linux Mint 10 KDE released! http:\/\/bit.ly\/gIOBx8","accountName":"Linux_Mint","date":"Wed Feb 23 13:03:27 CET 2011","retweetCount":32,"favoritesCount":4}
+{"text":"Partnership signed with eUKhost. Forums moved to 16GB server. Community site on its way over. http:\/\/bit.ly\/e61hV3","accountName":"Linux_Mint","date":"Tue Feb 22 14:55:16 CET 2011","retweetCount":5,"favoritesCount":0}
+{"text":"Linux Mint could change logo. Depending on this contest: https:\/\/99designs.com\/logo-design\/contests\/linux-mint-needs-logo-design-66874","accountName":"Linux_Mint","date":"Tue Feb 22 12:48:23 CET 2011","retweetCount":12,"favoritesCount":0}
+{"text":"Linux Mint 11 to be named \"Katya\": http:\/\/blog.linuxmint.com\/?p=1665","accountName":"Linux_Mint","date":"Tue Feb 22 12:47:34 CET 2011","retweetCount":30,"favoritesCount":0}
+{"text":"Linux Mint 10 LXDE RC released: http:\/\/blog.linuxmint.com\/?p=1661","accountName":"Linux_Mint","date":"Mon Feb 14 16:54:14 CET 2011","retweetCount":19,"favoritesCount":0}
+{"text":"Linux Mint Debian (201012) released in 32 and 64-bit! http:\/\/blog.linuxmint.com\/?p=1604","accountName":"Linux_Mint","date":"Fri Dec 24 14:03:49 CET 2010","retweetCount":34,"favoritesCount":4}
+{"text":"We had a little bit of downtime on the main repositories. All is fine again. Apologies for the inconvenience.","accountName":"Linux_Mint","date":"Tue Nov 23 13:32:31 CET 2010","retweetCount":5,"favoritesCount":0}
+{"text":"The website server and the repositories are back online and working normally. Thank you for your patience during the downtime.","accountName":"Linux_Mint","date":"Mon Nov 15 10:44:54 CET 2010","retweetCount":10,"favoritesCount":0}
+{"text":"Warning, server downtime, switch your repositories: http:\/\/blog.linuxmint.com\/?p=1591","accountName":"Linux_Mint","date":"Sun Nov 14 17:23:29 CET 2010","retweetCount":10,"favoritesCount":0}
+{"text":"Linux Mint 10 ISOs (i386 and amd64) approved for RC release.","accountName":"Linux_Mint","date":"Sun Oct 17 11:35:09 CEST 2010","retweetCount":24,"favoritesCount":1}
+{"text":"Linux Mint 10 Gnome CD amd64 (dev #014) goes into testing.","accountName":"Linux_Mint","date":"Fri Oct 15 09:59:51 CEST 2010","retweetCount":13,"favoritesCount":0}
+{"text":"User Guide now available in German (from your Firefox start page).","accountName":"Linux_Mint","date":"Thu Oct 07 15:53:06 CEST 2010","retweetCount":0,"favoritesCount":2}
+{"text":"User guide now available in Czech, and Mint KDE user guide available in French: http:\/\/ftp.heanet.ie\/pub\/linuxmint.com\/docs\/user-guide\/","accountName":"Linux_Mint","date":"Wed Sep 29 10:36:52 CEST 2010","retweetCount":4,"favoritesCount":1}
+{"text":"Mint 10's mintmenu gains GTK bookmarks.","accountName":"Linux_Mint","date":"Thu Sep 23 11:35:04 CEST 2010","retweetCount":4,"favoritesCount":0}
+{"text":"Mint 10's mintupload added to LMDE Romeo. New speed, ETA, better progress, UI improvements, autostart, connection check and cancel button.","accountName":"Linux_Mint","date":"Wed Sep 22 19:07:36 CEST 2010","retweetCount":7,"favoritesCount":0}
+{"text":"Mint 10's mintupdate shows total download size and allows to add packages from ignore list straight from the main window.","accountName":"Linux_Mint","date":"Thu Sep 16 16:14:51 CEST 2010","retweetCount":5,"favoritesCount":0}
+{"text":"Mint 10's mintmenu gains GTK themeability.","accountName":"Linux_Mint","date":"Thu Sep 16 11:22:49 CEST 2010","retweetCount":4,"favoritesCount":0}
+{"text":"Two new mirrors added: India and Brazil.","accountName":"Linux_Mint","date":"Thu Sep 16 11:22:11 CEST 2010","retweetCount":5,"favoritesCount":0}
+{"text":"Mint 10 theme and icons (mint-elementary-icons and mint-clearloox-theme) added to LMDE Romeo.","accountName":"Linux_Mint","date":"Sat Sep 11 11:39:01 CEST 2010","retweetCount":4,"favoritesCount":2}
+{"text":"Mint 10 features added to LMDE-Romeo: search engines in mintMenu, app icons in mintInstall.","accountName":"Linux_Mint","date":"Fri Sep 10 12:20:48 CEST 2010","retweetCount":2,"favoritesCount":1}
+{"text":"User Guide now available in Spanish (from your Firefox start page).","accountName":"Linux_Mint","date":"Fri Sep 10 12:19:59 CEST 2010","retweetCount":0,"favoritesCount":0}
+{"text":"6.88% of Linux Mint users run LMDE.","accountName":"Linux_Mint","date":"Fri Sep 10 12:19:35 CEST 2010","retweetCount":4,"favoritesCount":1}
+{"text":"@lange_r If you need any help with anything, just let us know.","accountName":"Linux_Mint","date":"Tue Sep 07 12:41:18 CEST 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@jsmith1017 Which edition of Mint 9 are you running?","accountName":"Linux_Mint","date":"Tue Sep 07 12:38:53 CEST 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@Ronakii Due to the differences in the code base a reinstall is the only viable option to switch to the @debian edition. :)","accountName":"Linux_Mint","date":"Tue Sep 07 12:37:50 CEST 2010","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint Debian Released: http:\/\/www.linuxmint.com\/blog\/?p=1527","accountName":"Linux_Mint","date":"Tue Sep 07 12:17:43 CEST 2010","retweetCount":32,"favoritesCount":4}
+{"text":"The team is proud to announce the release of Mint 9 \"Isadora\" #fluxbox edition: http:\/\/www.linuxmint.com\/blog\/?p=1523","accountName":"Linux_Mint","date":"Mon Sep 06 23:44:06 CEST 2010","retweetCount":13,"favoritesCount":2}
+{"text":"We are happy and proud to announce the release of Linux Mint 9 \"Isadora\": http:\/\/www.linuxmint.com\/blog\/?p=1403","accountName":"Linux_Mint","date":"Tue May 18 15:34:40 CEST 2010","retweetCount":48,"favoritesCount":0}
+{"text":"@SteveWiilliams The RC is available now. Would you mind checking to see about the Mirage 3 issue? Thanks.","accountName":"Linux_Mint","date":"Tue May 04 13:44:57 CEST 2010","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 9 “Isadora” RC released!  http:\/\/www.linuxmint.com\/blog\/?p=1386","accountName":"Linux_Mint","date":"Tue May 04 13:20:37 CEST 2010","retweetCount":33,"favoritesCount":2}
+{"text":"From the blog: Linux Mint 9 Wallpapers http:\/\/www.linuxmint.com\/blog\/?p=1374","accountName":"Linux_Mint","date":"Mon Apr 26 15:45:45 CEST 2010","retweetCount":12,"favoritesCount":1}
+{"text":"From the blog: Linux Mint 9 Look and Feel http:\/\/www.linuxmint.com\/blog\/?p=1371","accountName":"Linux_Mint","date":"Wed Apr 21 19:23:29 CEST 2010","retweetCount":8,"favoritesCount":0}
+{"text":"From the blog: Linux Mint 6 Felicia reaches end of life. http:\/\/www.linuxmint.com\/blog\/?p=1359","accountName":"Linux_Mint","date":"Sat Apr 10 21:07:46 CEST 2010","retweetCount":5,"favoritesCount":0}
+{"text":"@dekabandforever Release dates aren't set in stone, but development has already started. Expect more info as we progress.","accountName":"Linux_Mint","date":"Wed Mar 31 22:07:41 CEST 2010","retweetCount":1,"favoritesCount":0}
+{"text":"@chathuras Yep, pretty much.","accountName":"Linux_Mint","date":"Wed Mar 31 16:23:33 CEST 2010","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 8 “Helena” Xfce released! http:\/\/www.linuxmint.com\/blog\/?p=1340","accountName":"Linux_Mint","date":"Wed Mar 31 16:13:31 CEST 2010","retweetCount":9,"favoritesCount":0}
+{"text":"Linux Mint 8 “Helena” LXDE released! http:\/\/www.linuxmint.com\/blog\/?p=1339","accountName":"Linux_Mint","date":"Wed Mar 31 16:12:39 CEST 2010","retweetCount":14,"favoritesCount":0}
+{"text":"Clem has approved stable releases for Mint 8 Xfce and LXDE, expect announcements soon.","accountName":"Linux_Mint","date":"Tue Mar 30 22:21:38 CEST 2010","retweetCount":5,"favoritesCount":0}
+{"text":"LinuxMint-8-Xfce-DEV-011.iso approved by exploder for a stable release. Awaiting Clem's approval.","accountName":"Linux_Mint","date":"Wed Mar 24 23:19:59 CET 2010","retweetCount":6,"favoritesCount":0}
+{"text":"@Openattitude Thank you. It came as a blow to us all, we'll do our best to make sure he's always remembered.","accountName":"Linux_Mint","date":"Wed Mar 24 22:59:29 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@SteveWiilliams Still looking into the SIS Mirage 3 issue. Would you be willing to test this when Mint 9 comes out?","accountName":"Linux_Mint","date":"Wed Mar 24 18:45:35 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"From the blog, an overview of some of the new features in Mint 9: http:\/\/www.linuxmint.com\/blog\/?p=1335","accountName":"Linux_Mint","date":"Wed Mar 24 18:42:14 CET 2010","retweetCount":10,"favoritesCount":0}
+{"text":"LinuxMint-8-LXDE-DEV-026.iso approved by exploder for a stable release, waiting for Clem's approval.","accountName":"Linux_Mint","date":"Tue Mar 23 02:22:40 CET 2010","retweetCount":8,"favoritesCount":0}
+{"text":"@deepak_parihar How exactly are you going about trying to connect, and what edition are you using?","accountName":"Linux_Mint","date":"Sun Mar 21 20:21:16 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@akaSassinak Many things on that topic have been discussed. We'll announce more on the topic when we feel it necessary. For now, no worries.","accountName":"Linux_Mint","date":"Fri Mar 19 23:16:10 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@SteveWiilliams There are some graphics improvements in kernel 2.6.32 and 2.6.33. I'll look into it to see if the issue has been resolved.","accountName":"Linux_Mint","date":"Fri Mar 19 23:10:27 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@SteveWiilliams There have been some rather serious issues with that card and the necessary documentation to get it to work properly.","accountName":"Linux_Mint","date":"Fri Mar 19 23:09:46 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@SteveWiilliams That is fairly epic. What graphics card and driver are you using if you don't mind me asking?","accountName":"Linux_Mint","date":"Fri Mar 19 23:03:01 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@SteveWiilliams Ok.","accountName":"Linux_Mint","date":"Fri Mar 19 22:53:06 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@SteveWiilliams Would you care to elaborate a bit?","accountName":"Linux_Mint","date":"Fri Mar 19 22:51:24 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@SteveWiilliams Just curious as to why? \"Despise\" is a strong word, but you're entitled to your opinion and free to choose what you will.","accountName":"Linux_Mint","date":"Fri Mar 19 22:47:58 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@akaSassinak I seriously doubt it. It might shake things up for a bit though.","accountName":"Linux_Mint","date":"Fri Mar 19 22:45:36 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"The official forum for the LXDE edition is now up: http:\/\/bit.ly\/dtcCZ1","accountName":"Linux_Mint","date":"Fri Mar 19 16:11:01 CET 2010","retweetCount":4,"favoritesCount":0}
+{"text":"@d_himes You may ask @mr_shifty as he uses Gwibber quite a bit.","accountName":"Linux_Mint","date":"Wed Mar 17 14:31:51 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"Early review of Mint #LXDE from linuxcritic.wordpress.com: http:\/\/bit.ly\/cT9DPC","accountName":"Linux_Mint","date":"Wed Mar 17 14:29:39 CET 2010","retweetCount":6,"favoritesCount":1}
+{"text":"3 new modules added to the Community website: http:\/\/bit.ly\/bEVruE","accountName":"Linux_Mint","date":"Mon Mar 15 19:35:06 CET 2010","retweetCount":2,"favoritesCount":0}
+{"text":"Linux Mint 8 \"Helena\" LXDE RC1 Released: http:\/\/bit.ly\/9fG62J","accountName":"Linux_Mint","date":"Mon Mar 15 19:25:39 CET 2010","retweetCount":6,"favoritesCount":1}
+{"text":"@Skawouter Would you like a more detailed breakdown of the differences between the Main edition and the Fluxbox edition?","accountName":"Linux_Mint","date":"Fri Mar 12 12:47:16 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"@Zw0pper @knowlinux @bocahmiring @captain_udon @ConceptArena @wuyingren @ourdee Thanks guys for the condolences.","accountName":"Linux_Mint","date":"Fri Mar 12 12:43:12 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"#FF Linux Mint team members @drsjlazar and @Kendall_Tristan.","accountName":"Linux_Mint","date":"Fri Mar 12 12:38:36 CET 2010","retweetCount":1,"favoritesCount":0}
+{"text":"Rest in peace, Husse. You will be deeply missed by all of us at Mint. http:\/\/bit.ly\/90ejXK","accountName":"Linux_Mint","date":"Thu Mar 11 22:59:06 CET 2010","retweetCount":12,"favoritesCount":1}
+{"text":"The Mint community going out of their way to assist each other: http:\/\/bit.ly\/bJhfMU","accountName":"Linux_Mint","date":"Thu Mar 11 05:16:16 CET 2010","retweetCount":6,"favoritesCount":0}
+{"text":"@diegosocart12 Why not go for it? You never know until you try.","accountName":"Linux_Mint","date":"Thu Mar 11 00:02:20 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"RT @osnews: Mozilla To Update the Mozilla Public License, Invites Input: All Mozilla projects (the major ones at least, I did... http:\/\/ ...","accountName":"Linux_Mint","date":"Wed Mar 10 23:56:44 CET 2010","retweetCount":2,"favoritesCount":0}
+{"text":"RT @Kendall_Tristan: My Dropbox installer for #linuxmint is verified to work on KDE, Xfce, LXDE, and Fluxbox. I just need to test the Ma ...","accountName":"Linux_Mint","date":"Tue Mar 09 21:33:32 CET 2010","retweetCount":1,"favoritesCount":0}
+{"text":"@gabrielevidali Was this on the LiveCD? If so, try the username \"mint\" and no password.","accountName":"Linux_Mint","date":"Tue Mar 09 19:27:40 CET 2010","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-8-LXDE-DEV-022.iso approved for an RC release.","accountName":"Linux_Mint","date":"Tue Mar 09 15:20:26 CET 2010","retweetCount":6,"favoritesCount":0}
+{"text":"LinuxMint-8-Xfce-DEV-009.iso approved for an RC release.","accountName":"Linux_Mint","date":"Fri Mar 05 13:58:22 CET 2010","retweetCount":8,"favoritesCount":0}
+{"text":"LinuxMint-8-KDE-DEV-049.iso and LinuxMint-8-Fluxbox-DEV-059 approved by Exploder for stable releases. Waiting on Clem's approval.","accountName":"Linux_Mint","date":"Thu Feb 04 10:51:14 CET 2010","retweetCount":6,"favoritesCount":0}
+{"text":"LinuxMint-8-Fluxbox-DEV-052.iso approved by Clem and Exploder for an RC release.","accountName":"Linux_Mint","date":"Fri Jan 22 16:10:14 CET 2010","retweetCount":6,"favoritesCount":0}
+{"text":"LinuxMint-8-KDE-DEV-048.iso approved to be released as LinuxMint-8-KDE-RC1.iso","accountName":"Linux_Mint","date":"Mon Jan 18 13:59:25 CET 2010","retweetCount":6,"favoritesCount":1}
+{"text":"LinuxMint-8-Fluxbox-DEV-052.iso approved by Exploder for an RC release, waiting on Clem's approval.","accountName":"Linux_Mint","date":"Mon Jan 18 13:55:33 CET 2010","retweetCount":4,"favoritesCount":0}
+{"text":"LinuxMint-8-KDE-DEV-048.iso uploaded to the team, fixes 8 bugs.","accountName":"Linux_Mint","date":"Fri Jan 15 17:34:04 CET 2010","retweetCount":3,"favoritesCount":0}
+{"text":"Firefox 3.0.17 update available in Linux Mint 5.","accountName":"Linux_Mint","date":"Wed Jan 13 21:02:43 CET 2010","retweetCount":2,"favoritesCount":0}
+{"text":"LinuxMint-8-KDE-DEV-045.iso rejected by Clem. Very close to RC quality but a few tiny rough edges to fix before the release.","accountName":"Linux_Mint","date":"Wed Jan 13 20:47:56 CET 2010","retweetCount":2,"favoritesCount":0}
+{"text":"Firefox 3.0.17 update available in Linux Mint 6.","accountName":"Linux_Mint","date":"Wed Jan 13 20:45:20 CET 2010","retweetCount":2,"favoritesCount":0}
+{"text":"LinuxMint-8-KDE-DEV-045.iso approved by Exploder for an RC release, waiting on Clem's approval.","accountName":"Linux_Mint","date":"Wed Jan 13 20:31:48 CET 2010","retweetCount":2,"favoritesCount":1}
+{"text":"Firefox 3.0.17 and 3.5.7 updates available in Linux Mint 7.","accountName":"Linux_Mint","date":"Wed Jan 13 20:30:13 CET 2010","retweetCount":2,"favoritesCount":1}
+{"text":"Firefox 3.0.16 and 3.5.6 updates available in Linux Mint 7.","accountName":"Linux_Mint","date":"Mon Jan 04 15:01:03 CET 2010","retweetCount":3,"favoritesCount":0}
+{"text":"LinuxMint-8-x64-RC1.iso goes gold, approved by Clem and Exploder for the stable release.","accountName":"Linux_Mint","date":"Fri Dec 11 12:16:12 CET 2009","retweetCount":3,"favoritesCount":0}
+{"text":"LinuxMint-8-x64-DEV-008.iso approved by Exploder for an RC release.","accountName":"Linux_Mint","date":"Fri Dec 04 10:24:17 CET 2009","retweetCount":2,"favoritesCount":0}
+{"text":"LinuxMint-8-x64-DEV-008.iso uploaded to the team.","accountName":"Linux_Mint","date":"Thu Dec 03 21:01:30 CET 2009","retweetCount":2,"favoritesCount":0}
+{"text":"LinuxMint-8-DEV-050.iso approved by Exploder.","accountName":"Linux_Mint","date":"Fri Nov 27 20:50:16 CET 2009","retweetCount":1,"favoritesCount":0}
+{"text":"LinuxMint-8-DEV-050.iso and LinuxMint-8-Universal-DEV-002.iso uploaded to the team.","accountName":"Linux_Mint","date":"Fri Nov 27 17:15:34 CET 2009","retweetCount":2,"favoritesCount":1}
+{"text":"Linux Mint 8 \"Helena\" RC1 released.","accountName":"Linux_Mint","date":"Fri Nov 13 00:13:15 CET 2009","retweetCount":2,"favoritesCount":1}
+{"text":"LinuxMint-8-DEV-037.iso approved by Exploder, ready to be released as RC1.","accountName":"Linux_Mint","date":"Thu Nov 12 22:30:03 CET 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-8-DEV-037.iso approved by Clem, waiting on Exploder's approval.","accountName":"Linux_Mint","date":"Wed Nov 11 11:34:13 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-8-DEV-037.iso uploaded to the team, fixes 6 bugs.","accountName":"Linux_Mint","date":"Wed Nov 11 10:21:39 CET 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-8-DEV-035.iso uploaded to the team, fixes 3 bugs.","accountName":"Linux_Mint","date":"Tue Nov 10 15:12:29 CET 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-8-DEV-032.iso uploaded to the team, fixes 2 bugs.","accountName":"Linux_Mint","date":"Mon Nov 09 09:03:21 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-8-DEV-029.iso uploaded to the team, fixes 7 bugs.","accountName":"Linux_Mint","date":"Fri Nov 06 20:13:16 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-8-DEV-028.iso uploaded to the team.","accountName":"Linux_Mint","date":"Fri Nov 06 10:04:59 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 User Guide available in Brazilian Portuguese.","accountName":"Linux_Mint","date":"Tue Sep 29 12:24:50 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 User Guide upddated. Version 1.0.7 soon to be available on ftp:\/\/ftp.heanet.ie\/pub\/linuxmint.com\/stable\/7\/user-guide\/","accountName":"Linux_Mint","date":"Mon Sep 28 14:57:26 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Opera 10 upgrade available in Linux Mint 5 Elyssa LTS and Linux Mint 6 Felicia.","accountName":"Linux_Mint","date":"Sun Sep 13 14:37:49 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 'Gloria' XFCE released!","accountName":"Linux_Mint","date":"Sun Sep 13 14:16:01 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"New Bulgarian mirror for ISO downloads and package repositories.","accountName":"Linux_Mint","date":"Sun Sep 13 14:15:38 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Firefox 3.0.14 upgrade available for Linux Mint 5 Elyssa LTS, Linux Mint 6 Felicia and Linux Mint 7 Gloria.","accountName":"Linux_Mint","date":"Fri Sep 11 21:31:35 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Opera 10 upgrade available in Linux Mint 7 Gloria.","accountName":"Linux_Mint","date":"Fri Sep 04 16:42:11 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Firefox 3.5.2 upgrade available for Linux Mint 7 Gloria.","accountName":"Linux_Mint","date":"Mon Aug 10 16:49:39 CEST 2009","retweetCount":1,"favoritesCount":0}
+{"text":"Firefox 3.0.13 upgrade available for Linux Mint 5 Elyssa LTS, Linux Mint 6 Felicia and Linux Mint 7 Gloria.","accountName":"Linux_Mint","date":"Wed Aug 05 12:16:09 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 'Gloria' KDE released! http:\/\/www.linuxmint.com\/blog\/?p=986","accountName":"Linux_Mint","date":"Mon Aug 03 16:46:06 CEST 2009","retweetCount":0,"favoritesCount":2}
+{"text":"LinuxMint-7-KDE-DEV-067.iso approved by Clem, heading for a stable release.","accountName":"Linux_Mint","date":"Fri Jul 31 16:24:36 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-KDE-DEV-067.iso approved by Exploder.","accountName":"Linux_Mint","date":"Fri Jul 31 09:43:21 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-KDE-DEV-064.iso rejected by Clem due to a bug in mintUpdate 3.7.9.","accountName":"Linux_Mint","date":"Sun Jul 26 20:32:43 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Firefox 3.0.12 upgrade available for Linux Mint 5 Elyssa LTS, Linux Mint 6 Felicia and Linux Mint 7 Gloria.","accountName":"Linux_Mint","date":"Thu Jul 23 12:29:47 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-KDE-DEV-064.iso approved by Exploder.","accountName":"Linux_Mint","date":"Wed Jul 22 18:56:11 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Firefox 3.5.1 upgrade available for Linux Mint 7 Gloria.","accountName":"Linux_Mint","date":"Sun Jul 19 22:24:06 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Linux Mint 7 \"Gloria\" XFCE RC1 released: http:\/\/www.linuxmint.com\/blog\/?p=962","accountName":"Linux_Mint","date":"Sat Jul 18 15:16:36 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-XFCE-DEV-016.iso approved by Clem, heading for an RC release.","accountName":"Linux_Mint","date":"Thu Jul 16 12:02:37 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Large-scale vandalism on Linux Mint wiki. Content was restored. All pages are now protected.","accountName":"Linux_Mint","date":"Sun Jul 12 15:29:44 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-7-XFCE-DEV-016.iso approved by Exploder.","accountName":"Linux_Mint","date":"Sat Jul 11 17:59:18 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-KDE-DEV-056.iso approved by Exploder and Clem, heading for an RC release.","accountName":"Linux_Mint","date":"Sat Jul 04 18:39:15 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-KDE-DEV-054.iso and LinuxMint-7-XFCE-DEV-011.iso submitted to the team. 2 bugs found in each.","accountName":"Linux_Mint","date":"Sun Jun 28 12:56:37 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-x64-DEV-018.iso approved by Exploder, heading for a stable release.","accountName":"Linux_Mint","date":"Mon Jun 22 23:37:10 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-x64-DEV-018.iso approved by Clem, submitted to the team.","accountName":"Linux_Mint","date":"Sun Jun 21 21:14:19 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Firefox 3.0.11 upgrade available for Linux Mint 7 Gloria.","accountName":"Linux_Mint","date":"Sat Jun 13 21:27:55 CEST 2009","retweetCount":0,"favoritesCount":2}
+{"text":"Firefox 3.0.11 and mint-search-addon backported to Linux Mint 6 Felicia.","accountName":"Linux_Mint","date":"Sat Jun 13 20:35:31 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Firefox 3.0.11 and mint-search-addon backported to Linux Mint 5 Elyssa.","accountName":"Linux_Mint","date":"Sat Jun 13 19:07:46 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-x64-DEV-017.iso approved by Exploder, heading for an RC release.","accountName":"Linux_Mint","date":"Sat Jun 06 03:32:55 CEST 2009","retweetCount":0,"favoritesCount":2}
+{"text":"LinuxMint-7-x64-DEV-017.iso approved by Clem, submitted to the team.","accountName":"Linux_Mint","date":"Fri Jun 05 19:09:13 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Development on-going on Linux Mint 7 x64 edition, soon to be submitted to the team, says Clem.","accountName":"Linux_Mint","date":"Wed Jun 03 12:32:37 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-KDE-DEV-040 close to RC quality, says Exploder.","accountName":"Linux_Mint","date":"Wed Jun 03 12:30:41 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Upgrade path from Linux Mint 6 to Linux Mint 7 published: http:\/\/www.linuxmint.com\/blog\/?p=861","accountName":"Linux_Mint","date":"Sat May 30 18:31:01 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Linux Mint 7 Main and Universal editions, officially released.","accountName":"Linux_Mint","date":"Wed May 27 12:45:41 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-7-Universal-DEV-007.iso approved by Exploder, heading for a stable release.","accountName":"Linux_Mint","date":"Sun May 24 13:14:35 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-Universal-DEV-007.iso approved by Clem, submitted to the team.","accountName":"Linux_Mint","date":"Sat May 23 13:08:04 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-DEV-52.iso approved by Clem, heading for a stable release.","accountName":"Linux_Mint","date":"Sat May 23 13:01:51 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-7-DEV-52.iso approved by Exploder.","accountName":"Linux_Mint","date":"Thu May 21 11:15:54 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-7-DEV-52.iso submitted to the team.","accountName":"Linux_Mint","date":"Wed May 20 12:24:20 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Linux Mint 7 Gloria, all bugs fixed. Ready to enter testing phase. Waiting 1 more day for missing translations.","accountName":"Linux_Mint","date":"Mon May 18 22:26:58 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Linux Mint 7 Gloria, 5 bugs away from a stable release.","accountName":"Linux_Mint","date":"Fri May 15 20:53:09 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Linux Mint 7 Gloria, 10 bugs away from a stable release.","accountName":"Linux_Mint","date":"Fri May 15 16:04:17 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 Gloria, 15 bugs away from a stable release.","accountName":"Linux_Mint","date":"Fri May 15 13:43:36 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 Gloria, 19 bugs away from a stable release.","accountName":"Linux_Mint","date":"Thu May 14 21:30:33 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Linux Mint 7 Gloria, 25 bugs away from a stable release.","accountName":"Linux_Mint","date":"Thu May 14 20:25:17 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 Gloria, 32 bugs away from a stable release.","accountName":"Linux_Mint","date":"Wed May 13 22:18:51 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"@tdapple No.","accountName":"Linux_Mint","date":"Wed May 13 17:21:06 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 Gloria, 51 bugs away from a stable release.","accountName":"Linux_Mint","date":"Wed May 13 16:11:30 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-7-DEV-036 approved by Exploder, heading for an RC release.","accountName":"Linux_Mint","date":"Sun May 03 03:09:09 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Clem happy with LinuxMint-7-DEV-036.iso, given to Exploder for further testing.","accountName":"Linux_Mint","date":"Sat May 02 19:47:08 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Firefox 3.0.10 added to Elyssa and Felicia repositories, included in upcoming Gloria.","accountName":"Linux_Mint","date":"Thu Apr 30 14:35:29 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 7 Gloria Main Edition entering testing phase.","accountName":"Linux_Mint","date":"Thu Apr 30 00:40:36 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Firefox 3.0.9 update in Elyssa and Felicia.","accountName":"Linux_Mint","date":"Thu Apr 23 20:33:17 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 6 KDE released.","accountName":"Linux_Mint","date":"Wed Apr 08 19:49:33 CEST 2009","retweetCount":0,"favoritesCount":2}
+{"text":"Linux Mint 6 Fluxbox released.","accountName":"Linux_Mint","date":"Tue Apr 07 21:26:19 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-6-KDE-DEV-122 approved, heading for a stable release.","accountName":"Linux_Mint","date":"Mon Apr 06 12:14:08 CEST 2009","retweetCount":0,"favoritesCount":1}
+{"text":"LinuxMint-6-Fluxbox-DEV-039 approved, heading for a stable release.","accountName":"Linux_Mint","date":"Sun Apr 05 18:59:37 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-Fluxbox-DEV-039.iso and LinuxMint-6-KDE-DEV-122.iso uploaded by Shane and Boo, ready for testing, look like solid candidates.","accountName":"Linux_Mint","date":"Thu Apr 02 13:12:43 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Modifications done to look and feel for search fields in Firefox start pages, initially requested by Google.","accountName":"Linux_Mint","date":"Thu Apr 02 13:10:53 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-Fluxbox-DEV-037.iso and LinuxMint-6-KDE-DEV-121.iso rejected by Clem. 3 Bugs left in KDE CE, 1 in Fluxbox CE.","accountName":"Linux_Mint","date":"Tue Mar 31 00:11:23 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Firefox 3.0.8 added to Elyssa and Felicia repositories.","accountName":"Linux_Mint","date":"Mon Mar 30 12:52:46 CEST 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint might get a 5th dedicated server, in the USA.","accountName":"Linux_Mint","date":"Wed Mar 25 14:38:48 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-Fluxbox-DEV-035.iso and LinuxMint-6-KDE-DEV-121.iso approved by Exploder.","accountName":"Linux_Mint","date":"Wed Mar 25 14:38:15 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Opera 9.64 backported to Elyssa and Felicia","accountName":"Linux_Mint","date":"Sun Mar 15 21:06:41 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Brasero 0.8.4, Pidgin 2.5.5, Songbird 1.0.0, Vuze 4.1, Spicebird 0.7.0, Nimbus 0.1.2 and inxi 1.0.6 backported to Linux Mint 6 Felicia.","accountName":"Linux_Mint","date":"Thu Mar 12 01:40:30 CET 2009","retweetCount":0,"favoritesCount":1}
+{"text":"Email problems in Forums now completely solved.","accountName":"Linux_Mint","date":"Wed Mar 11 16:44:49 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"New dedicated host in England frees space for our repositories in Germany, allowing us to maintain a larger collection of packages.","accountName":"Linux_Mint","date":"Wed Mar 11 00:29:06 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"mintMenu 4.3.3 added to Gloria, adds keyboard shortcuts, suggestions and other new improvements: http:\/\/ur1.ca\/27yw","accountName":"Linux_Mint","date":"Sun Mar 08 18:56:29 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Liteweb added to the Linux Mint Planet: http:\/\/www.linuxmint.com\/planet","accountName":"Linux_Mint","date":"Sat Mar 07 19:53:09 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Software Portal - Improvements made to the login process and account settings: http:\/\/linuxmint.com\/software\/","accountName":"Linux_Mint","date":"Sat Mar 07 17:06:42 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Firefox 3.0.7 updates available via mintUpdate for Elyssa and Felicia. Release notes: http:\/\/ur1.ca\/24fc","accountName":"Linux_Mint","date":"Fri Mar 06 19:24:55 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 6 Felicia KDE RC1 released: http:\/\/short.to\/1njl","accountName":"Linux_Mint","date":"Tue Mar 03 23:50:31 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint 6 Felicia Fluxbox RC1 released.","accountName":"Linux_Mint","date":"Tue Mar 03 15:03:55 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Twitter\/Identi.ca RSS feed added to the Linux Mint Planet. Updates to appear in user's dynamic Firefox bookmarks: http:\/\/ur1.ca\/1z6u","accountName":"Linux_Mint","date":"Fri Feb 27 18:29:10 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"MintUpload patched by community members. Could gain SFTP and SCP support in Linux Mint 7.","accountName":"Linux_Mint","date":"Fri Feb 27 18:09:06 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-Fluxbox-DEV-033.iso was given the go ahead. It will be released as Linux Mint 6 Fluxbox CE RC1.","accountName":"Linux_Mint","date":"Fri Feb 27 08:58:48 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-KDE-DEV-116.iso was given the go ahead. It will be released as Linux Mint 6 KDE CE RC1.","accountName":"Linux_Mint","date":"Fri Feb 27 08:17:12 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Clem happy to release LinuxMint-KDE-6-116 as RC1, waiting on Exploder to confirm.","accountName":"Linux_Mint","date":"Thu Feb 26 20:41:02 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Linux Mint now also on identi.ca: http:\/\/identi.ca\/linuxmint","accountName":"Linux_Mint","date":"Thu Feb 26 14:30:48 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Boo uploaded LinuxMint-6-KDE-DEV-116 to the team. Ready for testing.","accountName":"Linux_Mint","date":"Thu Feb 26 14:00:26 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"@tatewatkins yes: KDE 4.2, Amarok 2.0.","accountName":"Linux_Mint","date":"Thu Feb 26 01:24:22 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-Fluxbox-DEV-033: Exploder gave the go ahead for an RC release. Entering final testing phase.","accountName":"Linux_Mint","date":"Thu Feb 26 01:23:57 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"[Linux Mint]: An Urban Terror clan for Linux Mint users: http:\/\/tinyurl.com\/cd2lsg","accountName":"Linux_Mint","date":"Tue Feb 24 22:25:28 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"@emalyse It was missing from the tracker, this is now fixed.","accountName":"Linux_Mint","date":"Tue Feb 24 22:15:26 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-KDE-DEV-114: regression found in mintInstall, 1 bug away from a release...","accountName":"Linux_Mint","date":"Tue Feb 24 22:13:48 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Stable release: Linux Mint 6 Felicia XFCE CE. Announcement: http:\/\/www.linuxmint.com\/blog\/?p=637","accountName":"Linux_Mint","date":"Tue Feb 24 12:51:35 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"No more guest posts in the forums. Due to an increase in spam related posts, guest now only have read-access to the forums.","accountName":"Linux_Mint","date":"Mon Feb 23 22:21:03 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-XFCE-DEV-042.iso was given the go ahead. It will be released at Linux Mint 6 XFCE CE (stable) early this week.","accountName":"Linux_Mint","date":"Sun Feb 22 23:24:35 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"@foxoman to Mint 5 they should be as we're maintaining it as an LTS. To mint 6, it's not guaranteed.","accountName":"Linux_Mint","date":"Sun Feb 22 23:21:11 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"mintSystem 6.2 update: Fixes \"apt purge\", makes \"apt source\" run without sudo powers","accountName":"Linux_Mint","date":"Wed Feb 18 21:17:37 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LM7 Gloria: New \"Easy-search\/show\/install\" feature in mintMenu. Makes it even quicker to install packages, directly from the menu.","accountName":"Linux_Mint","date":"Wed Feb 18 00:18:52 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Email problems fixed on the LM forums. Did not send registration\/forgotten_pass emails. Problem is now solved.","accountName":"Linux_Mint","date":"Mon Feb 16 21:49:08 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"LinuxMint-6-XFCE-DEV-039.iso tested by Exploder. 1 bug away from release.","accountName":"Linux_Mint","date":"Mon Feb 16 21:45:19 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"@TomHancockUK It's free, counts as sponsorship. Market value is $230\/month.","accountName":"Linux_Mint","date":"Mon Feb 16 21:42:50 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"@TomHancockUK Pentium Dual Core 2.5Ghz Processor\n2 x 250GB SATA, RAID1 Hard Drives\n4GB DDR2 RAM","accountName":"Linux_Mint","date":"Sat Feb 14 01:54:41 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Work on Mint 7 Gloria started. Package sizes shown in mintUpdate, empty trash action and trash status in mintMenu.","accountName":"Linux_Mint","date":"Sat Feb 14 01:42:38 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Migration complete. The forums now have their own dedicated server.","accountName":"Linux_Mint","date":"Thu Feb 12 12:11:57 CET 2009","retweetCount":0,"favoritesCount":0}
+{"text":"Migrating the Linux Mint forums to Canada","accountName":"Linux_Mint","date":"Thu Feb 12 10:38:47 CET 2009","retweetCount":0,"favoritesCount":0}

@@ -1,0 +1,143 @@
+{"text":"New cases of coronavirus in the US today: 18627\n\nNew recoveries in the US today: 8636\n\nNew deaths in the US today: 1006","accountName":"COVID19_USA_","date":"Tue May 12 07:59:54 CEST 2020","retweetCount":16,"favoritesCount":32}
+{"text":"New cases of coronavirus in the US today: 25658\n\nNew recoveries in the US today: 20965\n\nNew deaths in the US today: 1467","accountName":"COVID19_USA_","date":"Sun May 10 07:17:13 CEST 2020","retweetCount":10,"favoritesCount":26}
+{"text":"New cases of coronavirus in the US today: 24158\n\nNew recoveries in the US today: 6798\n\nNew deaths in the US today: 1361","accountName":"COVID19_USA_","date":"Tue May 05 07:15:47 CEST 2020","retweetCount":3,"favoritesCount":18}
+{"text":"New cases of coronavirus in the US today: 25451\n\nNew recoveries in the US today: 4507\n\nNew deaths in the US today: 2271","accountName":"COVID19_USA_","date":"Thu Apr 30 00:20:08 CEST 2020","retweetCount":7,"favoritesCount":18}
+{"text":"New cases of coronavirus in the US today: 24358\n\nNew recoveries in the US today: 4471\n\nNew deaths in the US today: 1301","accountName":"COVID19_USA_","date":"Tue Apr 28 07:22:50 CEST 2020","retweetCount":7,"favoritesCount":24}
+{"text":"Total number cases of coronavirus in the US as of today: 1,001,901\n\nTotal recoveries in the US today: 110,215\n\nTotal deaths in the US today: 56,191","accountName":"COVID19_USA_","date":"Mon Apr 27 21:16:47 CEST 2020","retweetCount":12,"favoritesCount":21}
+{"text":"New cases of coronavirus in the US today: 14469\n\nNew recoveries in the US today: 716\n\nNew deaths in the US today: 690","accountName":"COVID19_USA_","date":"Mon Apr 27 21:15:21 CEST 2020","retweetCount":11,"favoritesCount":17}
+{"text":"New cases of coronavirus in the US today: 31750\n\nNew recoveries in the US today: 6737\n\nNew deaths in the US today: 1797","accountName":"COVID19_USA_","date":"Sun Apr 26 08:47:31 CEST 2020","retweetCount":10,"favoritesCount":18}
+{"text":"New cases of coronavirus in the US today: 25553\n\nNew recoveries in the US today: 667\n\nNew deaths in the US today: 1259","accountName":"COVID19_USA_","date":"Sun Apr 26 00:03:16 CEST 2020","retweetCount":8,"favoritesCount":13}
+{"text":"https:\/\/t.co\/FAm9Gsgodv","accountName":"COVID19_USA_","date":"Wed Apr 22 21:59:46 CEST 2020","retweetCount":9,"favoritesCount":26}
+{"text":"New cases of coronavirus in the US today: 26821\n\nNew recoveries in the US today: 2147\n\nNew deaths in the US today: 2486","accountName":"COVID19_USA_","date":"Wed Apr 22 08:44:40 CEST 2020","retweetCount":9,"favoritesCount":25}
+{"text":"New cases of coronavirus in the US today: 28609\n\nNew recoveries in the US today: 1996\n\nNew deaths in the US today: 1788","accountName":"COVID19_USA_","date":"Tue Apr 21 07:00:55 CEST 2020","retweetCount":8,"favoritesCount":21}
+{"text":"New cases of coronavirus in the US today: 23920\n\nNew recoveries in the US today: 1014\n\nNew deaths in the US today: 1402","accountName":"COVID19_USA_","date":"Tue Apr 21 00:20:14 CEST 2020","retweetCount":6,"favoritesCount":18}
+{"text":"There have been 723,640 total confirmed cases of coronavirus in the US so far.","accountName":"COVID19_USA_","date":"Sat Apr 18 20:56:38 CEST 2020","retweetCount":12,"favoritesCount":16}
+{"text":"New cases of coronavirus in the US today: 31681\n\nNew recoveries in the US today: 3446\n\nNew deaths in the US today: 2526","accountName":"COVID19_USA_","date":"Sat Apr 18 08:54:10 CEST 2020","retweetCount":15,"favoritesCount":33}
+{"text":"New cases of coronavirus in the US today: 29101\n\nNew recoveries in the US today: 2365\n\nNew deaths in the US today: 1813","accountName":"COVID19_USA_","date":"Sat Apr 18 02:17:06 CEST 2020","retweetCount":3,"favoritesCount":11}
+{"text":"New cases of coronavirus in the US today: 28094\n\nNew recoveries in the US today: 1894\n\nNew deaths in the US today: 1891","accountName":"COVID19_USA_","date":"Fri Apr 17 02:43:36 CEST 2020","retweetCount":9,"favoritesCount":16}
+{"text":"New cases of coronavirus in the US today: 20090\n\nNew recoveries in the US today: 958\n\nNew deaths in the US today: 1011","accountName":"COVID19_USA_","date":"Thu Apr 16 22:12:31 CEST 2020","retweetCount":5,"favoritesCount":11}
+{"text":"5073 new recoveries so far today in the US.","accountName":"COVID19_USA_","date":"Wed Apr 15 05:41:44 CEST 2020","retweetCount":9,"favoritesCount":65}
+{"text":"Total cases of coronavirus in the US as of today: 614,219\n\nTotal recoveries in the US today: 48,224\n\nTotal deaths in the US today: 26,044","accountName":"COVID19_USA_","date":"Wed Apr 15 03:34:53 CEST 2020","retweetCount":13,"favoritesCount":27}
+{"text":"New cases of coronavirus in the US today: 22776\n\nNew recoveries in the US today: 2278\n\nNew deaths in the US today: 1995","accountName":"COVID19_USA_","date":"Wed Apr 15 00:23:31 CEST 2020","retweetCount":5,"favoritesCount":14}
+{"text":"New cases of coronavirus in the US today: 27745\n\nNew recoveries in the US today: 1133\n\nNew deaths in the US today: 1539","accountName":"COVID19_USA_","date":"Mon Apr 13 06:08:46 CEST 2020","retweetCount":10,"favoritesCount":21}
+{"text":"New cases of coronavirus in the US today: 25338\n\nNew recoveries in the US today: 502\n\nNew deaths in the US today: 1452","accountName":"COVID19_USA_","date":"Mon Apr 13 01:13:19 CEST 2020","retweetCount":7,"favoritesCount":19}
+{"text":"New cases in the US today: 16880\n\nNew recoveries in the US today: 156\n\nNew deaths in the US today: 1277","accountName":"COVID19_USA_","date":"Sat Apr 11 20:54:11 CEST 2020","retweetCount":6,"favoritesCount":19}
+{"text":"RT @landon_hanna: So, you’re sick of isolation? https:\/\/t.co\/FaYs6i5Fpm","accountName":"COVID19_USA_","date":"Sat Apr 11 20:38:23 CEST 2020","retweetCount":282075,"favoritesCount":0}
+{"text":"New cases today so far in the US: 35977\n\nNew recoveries today so far in the US: 2722\n\nNew deaths today so far in the US: 2102","accountName":"COVID19_USA_","date":"Sat Apr 11 07:46:29 CEST 2020","retweetCount":14,"favoritesCount":36}
+{"text":"New cases today so far: 19849\n\nNew recoveries today so far: 1096\n\nNew deaths today so far: 1264","accountName":"COVID19_USA_","date":"Fri Apr 10 20:11:45 CEST 2020","retweetCount":9,"favoritesCount":16}
+{"text":"33506 new confirmed cases of coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Fri Apr 10 05:23:25 CEST 2020","retweetCount":4,"favoritesCount":13}
+{"text":"1667 new deaths from coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Fri Apr 10 02:41:11 CEST 2020","retweetCount":7,"favoritesCount":12}
+{"text":"1142 new recoveries from coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Fri Apr 10 02:40:38 CEST 2020","retweetCount":5,"favoritesCount":17}
+{"text":"29712 new confirmed cases of coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Fri Apr 10 02:40:05 CEST 2020","retweetCount":3,"favoritesCount":9}
+{"text":"1843 new deaths from coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Thu Apr 09 03:24:59 CEST 2020","retweetCount":4,"favoritesCount":12}
+{"text":"1266 new recoveries so far today in the US.","accountName":"COVID19_USA_","date":"Thu Apr 09 03:24:19 CEST 2020","retweetCount":3,"favoritesCount":12}
+{"text":"30825 new confirmed cases of coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Thu Apr 09 02:04:35 CEST 2020","retweetCount":6,"favoritesCount":12}
+{"text":"531 new recoveries from COVID-19 so far today in the US.","accountName":"COVID19_USA_","date":"Wed Apr 08 21:50:35 CEST 2020","retweetCount":5,"favoritesCount":15}
+{"text":"1328 new deaths from coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Wed Apr 08 21:50:01 CEST 2020","retweetCount":3,"favoritesCount":3}
+{"text":"22608 new confirmed cases of the coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Wed Apr 08 21:49:30 CEST 2020","retweetCount":4,"favoritesCount":6}
+{"text":"2348 new recoveries from coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Wed Apr 08 07:42:19 CEST 2020","retweetCount":8,"favoritesCount":34}
+{"text":"1880 new deaths from coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Wed Apr 08 02:44:01 CEST 2020","retweetCount":6,"favoritesCount":6}
+{"text":"1957 new recoveries so far today in the US.","accountName":"COVID19_USA_","date":"Wed Apr 08 02:43:14 CEST 2020","retweetCount":2,"favoritesCount":11}
+{"text":"30071 new confirmed cases of coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Wed Apr 08 02:42:28 CEST 2020","retweetCount":6,"favoritesCount":6}
+{"text":"RT @jack: I’m moving $1B of my Square equity (~28% of my wealth) to #startsmall LLC to fund global COVID-19 relief. After we disarm this pa…","accountName":"COVID19_USA_","date":"Wed Apr 08 00:57:26 CEST 2020","retweetCount":69152,"favoritesCount":0}
+{"text":"22065 new confirmed cases of coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Tue Apr 07 23:59:08 CEST 2020","retweetCount":2,"favoritesCount":8}
+{"text":"1419 new deaths from coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Tue Apr 07 23:58:26 CEST 2020","retweetCount":2,"favoritesCount":6}
+{"text":"2231 new recoveries from coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Tue Apr 07 04:53:12 CEST 2020","retweetCount":9,"favoritesCount":39}
+{"text":"30064 new confirmed cases of coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Tue Apr 07 03:50:25 CEST 2020","retweetCount":5,"favoritesCount":10}
+{"text":"1792 new recoveries from coronavirus so far today and 1114 new deaths in the US.","accountName":"COVID19_USA_","date":"Mon Apr 06 23:46:59 CEST 2020","retweetCount":3,"favoritesCount":8}
+{"text":"26680 new confirmed cases of coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Mon Apr 06 23:46:02 CEST 2020","retweetCount":2,"favoritesCount":7}
+{"text":"1134 new deaths from coronavirus so far today.","accountName":"COVID19_USA_","date":"Mon Apr 06 04:31:58 CEST 2020","retweetCount":3,"favoritesCount":9}
+{"text":"2389 new recoveries from coronavirus in the US today so far.","accountName":"COVID19_USA_","date":"Mon Apr 06 00:57:57 CEST 2020","retweetCount":2,"favoritesCount":6}
+{"text":"25005 new confirmed cases of coronavirus today in the US.","accountName":"COVID19_USA_","date":"Mon Apr 06 00:57:18 CEST 2020","retweetCount":2,"favoritesCount":6}
+{"text":"There are now 17863 new confirmed cases of coronavirus in the US today","accountName":"COVID19_USA_","date":"Sun Apr 05 21:28:45 CEST 2020","retweetCount":1,"favoritesCount":11}
+{"text":"There are now 752 new deaths from the coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Sun Apr 05 20:20:25 CEST 2020","retweetCount":2,"favoritesCount":5}
+{"text":"There have been 1750 new recoveries so far today in the US from coronavirus.","accountName":"COVID19_USA_","date":"Sun Apr 05 20:19:50 CEST 2020","retweetCount":3,"favoritesCount":22}
+{"text":"There are 12510 new confirmed cases of coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Sun Apr 05 20:19:10 CEST 2020","retweetCount":2,"favoritesCount":7}
+{"text":"1514 new deaths from coronavirus so far today","accountName":"COVID19_USA_","date":"Sun Apr 05 04:49:31 CEST 2020","retweetCount":2,"favoritesCount":6}
+{"text":"33244 new confirmed cases of coronavirus in the US so far today","accountName":"COVID19_USA_","date":"Sun Apr 05 03:46:18 CEST 2020","retweetCount":3,"favoritesCount":13}
+{"text":"27537 new confirmed cases in the US so far.","accountName":"COVID19_USA_","date":"Sat Apr 04 23:14:20 CEST 2020","retweetCount":5,"favoritesCount":13}
+{"text":"22484 new confirmed cases of coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Sat Apr 04 20:27:59 CEST 2020","retweetCount":3,"favoritesCount":3}
+{"text":"991 new deaths so far today in the US.","accountName":"COVID19_USA_","date":"Sat Apr 04 20:27:18 CEST 2020","retweetCount":4,"favoritesCount":10}
+{"text":"4427 new recoveries so far today in the US from coronavirus.","accountName":"COVID19_USA_","date":"Sat Apr 04 20:26:20 CEST 2020","retweetCount":6,"favoritesCount":14}
+{"text":"There 297,628 total confirmed cases of coronavirus in the US and 10,032 recoveries as of now. As well as 8,107 deaths.","accountName":"COVID19_USA_","date":"Sat Apr 04 19:43:00 CEST 2020","retweetCount":9,"favoritesCount":18}
+{"text":"36 new recoveries so far today.","accountName":"COVID19_USA_","date":"Sat Apr 04 19:23:51 CEST 2020","retweetCount":2,"favoritesCount":20}
+{"text":"737 new confirmed deaths from coronavirus so far today.","accountName":"COVID19_USA_","date":"Sat Apr 04 19:22:35 CEST 2020","retweetCount":3,"favoritesCount":7}
+{"text":"20280 new confirmed cases of coronavirus in America so far today.","accountName":"COVID19_USA_","date":"Sat Apr 04 19:22:05 CEST 2020","retweetCount":2,"favoritesCount":5}
+{"text":"31624 new confirmed cases of coronavirus today so far.","accountName":"COVID19_USA_","date":"Sat Apr 04 02:28:34 CEST 2020","retweetCount":3,"favoritesCount":9}
+{"text":"28052 new confirmed coronavirus cases so far today in the US and 1019 new deaths. There are also 209 new recoveries today.","accountName":"COVID19_USA_","date":"Fri Apr 03 23:14:44 CEST 2020","retweetCount":5,"favoritesCount":21}
+{"text":"780 new deaths so far today in the US from coronavirus.","accountName":"COVID19_USA_","date":"Fri Apr 03 21:53:23 CEST 2020","retweetCount":4,"favoritesCount":7}
+{"text":"21146 new confirmed coronavirus cases so far today.","accountName":"COVID19_USA_","date":"Fri Apr 03 21:52:44 CEST 2020","retweetCount":1,"favoritesCount":11}
+{"text":"New York has 102,836 confirmed cases, 2,935 deaths and 6,590 recoveries of coronavirus alone.","accountName":"COVID19_USA_","date":"Fri Apr 03 19:53:22 CEST 2020","retweetCount":5,"favoritesCount":23}
+{"text":"116 new recoveries from coronavirus so far today.","accountName":"COVID19_USA_","date":"Fri Apr 03 19:50:06 CEST 2020","retweetCount":3,"favoritesCount":19}
+{"text":"570 new deaths from coronavirus so far today.","accountName":"COVID19_USA_","date":"Fri Apr 03 19:48:59 CEST 2020","retweetCount":2,"favoritesCount":4}
+{"text":"14278 new confirmed cases of coronavirus so far today in the US.","accountName":"COVID19_USA_","date":"Fri Apr 03 19:45:25 CEST 2020","retweetCount":2,"favoritesCount":6}
+{"text":"516 recoveries so far today in the US.","accountName":"COVID19_USA_","date":"Fri Apr 03 07:53:29 CEST 2020","retweetCount":17,"favoritesCount":76}
+{"text":"29200 new confirmed cases of coronavirus in the US today.","accountName":"COVID19_USA_","date":"Fri Apr 03 05:56:51 CEST 2020","retweetCount":7,"favoritesCount":15}
+{"text":"865 new deaths so far today in the US.","accountName":"COVID19_USA_","date":"Fri Apr 03 03:58:24 CEST 2020","retweetCount":7,"favoritesCount":12}
+{"text":"386 total recoveries so far today in the US.","accountName":"COVID19_USA_","date":"Fri Apr 03 03:58:01 CEST 2020","retweetCount":7,"favoritesCount":28}
+{"text":"27134 new confirmed cases today so far.","accountName":"COVID19_USA_","date":"Fri Apr 03 01:44:20 CEST 2020","retweetCount":2,"favoritesCount":12}
+{"text":"298 new recoveries today so far.","accountName":"COVID19_USA_","date":"Fri Apr 03 01:43:59 CEST 2020","retweetCount":2,"favoritesCount":14}
+{"text":"620 new deaths so far today.","accountName":"COVID19_USA_","date":"Thu Apr 02 22:14:44 CEST 2020","retweetCount":3,"favoritesCount":4}
+{"text":"22366 new confirmed coronavirus cases in the US so far today.","accountName":"COVID19_USA_","date":"Thu Apr 02 22:14:23 CEST 2020","retweetCount":2,"favoritesCount":7}
+{"text":"1495 recoveries so far today.","accountName":"COVID19_USA_","date":"Thu Apr 02 04:36:31 CEST 2020","retweetCount":3,"favoritesCount":17}
+{"text":"1047 new deaths today.","accountName":"COVID19_USA_","date":"Thu Apr 02 04:36:03 CEST 2020","retweetCount":4,"favoritesCount":3}
+{"text":"26602 new confirmed cases so far today.","accountName":"COVID19_USA_","date":"Thu Apr 02 04:35:46 CEST 2020","retweetCount":4,"favoritesCount":7}
+{"text":"24887 new confirmed cases of coronavirus in the US.","accountName":"COVID19_USA_","date":"Thu Apr 02 01:55:28 CEST 2020","retweetCount":5,"favoritesCount":8}
+{"text":"557 new deaths today.","accountName":"COVID19_USA_","date":"Wed Apr 01 22:31:13 CEST 2020","retweetCount":5,"favoritesCount":9}
+{"text":"18970 new confirmed cases of coronavirus in the US so far today.","accountName":"COVID19_USA_","date":"Wed Apr 01 22:30:42 CEST 2020","retweetCount":2,"favoritesCount":6}
+{"text":"15975 new confirmed cases today so far.","accountName":"COVID19_USA_","date":"Wed Apr 01 21:11:23 CEST 2020","retweetCount":1,"favoritesCount":7}
+{"text":"1302 recovered so far today.","accountName":"COVID19_USA_","date":"Wed Apr 01 20:00:35 CEST 2020","retweetCount":7,"favoritesCount":17}
+{"text":"297 new deaths so far today.","accountName":"COVID19_USA_","date":"Wed Apr 01 19:59:58 CEST 2020","retweetCount":2,"favoritesCount":6}
+{"text":"10043 new confirmed cases today.","accountName":"COVID19_USA_","date":"Wed Apr 01 19:59:35 CEST 2020","retweetCount":3,"favoritesCount":4}
+{"text":"1129 new recoveries so far today.","accountName":"COVID19_USA_","date":"Wed Apr 01 06:53:40 CEST 2020","retweetCount":15,"favoritesCount":52}
+{"text":"25361 new confirmed cases today and 900 new deaths so far today.","accountName":"COVID19_USA_","date":"Wed Apr 01 05:29:58 CEST 2020","retweetCount":5,"favoritesCount":15}
+{"text":"719 new deaths so far today.","accountName":"COVID19_USA_","date":"Wed Apr 01 04:21:51 CEST 2020","retweetCount":4,"favoritesCount":16}
+{"text":"There are now 23,412 new confirmed cases of COVID-19 today.","accountName":"COVID19_USA_","date":"Wed Apr 01 00:55:58 CEST 2020","retweetCount":4,"favoritesCount":19}
+{"text":"21,345 new confirmed cases of COVID-19 in the US.","accountName":"COVID19_USA_","date":"Tue Mar 31 23:42:29 CEST 2020","retweetCount":8,"favoritesCount":9}
+{"text":"There are now 19,018 new confirmed cases of coronavirus in the US.","accountName":"COVID19_USA_","date":"Tue Mar 31 22:46:20 CEST 2020","retweetCount":5,"favoritesCount":5}
+{"text":"There have been 17,180 new confirmed cases of coronavirus in the US today. With 512 new deaths bringing the total number of deaths to 3699. There have been 6038 recoveries out of the 181,989 total cases in America.","accountName":"COVID19_USA_","date":"Tue Mar 31 22:34:55 CEST 2020","retweetCount":8,"favoritesCount":9}
+{"text":"21156 confirmed new cases today so far.","accountName":"COVID19_USA_","date":"Tue Mar 31 02:40:00 CEST 2020","retweetCount":11,"favoritesCount":21}
+{"text":"17104 new confirmed cases so far today.","accountName":"COVID19_USA_","date":"Mon Mar 30 23:32:30 CEST 2020","retweetCount":3,"favoritesCount":11}
+{"text":"Two major U.S. health insurers, Cigna and Humana, are waiving all out-of-pocket costs for coronavirus treatments nationwide. https:\/\/t.co\/vYG2YzIIWp","accountName":"COVID19_USA_","date":"Mon Mar 30 21:41:17 CEST 2020","retweetCount":3,"favoritesCount":4}
+{"text":"9067 new cases confirmed today.","accountName":"COVID19_USA_","date":"Mon Mar 30 19:57:17 CEST 2020","retweetCount":2,"favoritesCount":16}
+{"text":"5545 recoveries of COVID-19 so far.","accountName":"COVID19_USA_","date":"Mon Mar 30 19:56:54 CEST 2020","retweetCount":0,"favoritesCount":20}
+{"text":"17326 new confirmed cases so far today.","accountName":"COVID19_USA_","date":"Mon Mar 30 02:02:01 CEST 2020","retweetCount":1,"favoritesCount":12}
+{"text":"@Iam_Ifthikar Yes","accountName":"COVID19_USA_","date":"Sun Mar 29 23:46:15 CEST 2020","retweetCount":0,"favoritesCount":0}
+{"text":"Everyone stay home so we can have fun this summer please https:\/\/t.co\/kKHOVi2FL0","accountName":"COVID19_USA_","date":"Sun Mar 29 23:28:13 CEST 2020","retweetCount":19,"favoritesCount":43}
+{"text":"2660 recovers so far!","accountName":"COVID19_USA_","date":"Sun Mar 29 23:23:05 CEST 2020","retweetCount":4,"favoritesCount":19}
+{"text":"@Iam_Ifthikar The US.","accountName":"COVID19_USA_","date":"Sun Mar 29 23:22:42 CEST 2020","retweetCount":0,"favoritesCount":0}
+{"text":"13530 new confirmed cases today.","accountName":"COVID19_USA_","date":"Sun Mar 29 23:10:16 CEST 2020","retweetCount":8,"favoritesCount":20}
+{"text":"214 deaths so far today.","accountName":"COVID19_USA_","date":"Sun Mar 29 22:53:52 CEST 2020","retweetCount":6,"favoritesCount":9}
+{"text":"10720 new confirmed cases today.","accountName":"COVID19_USA_","date":"Sun Mar 29 20:57:13 CEST 2020","retweetCount":2,"favoritesCount":8}
+{"text":"8095 new cases today.","accountName":"COVID19_USA_","date":"Sun Mar 29 19:53:28 CEST 2020","retweetCount":5,"favoritesCount":5}
+{"text":"Click the link so you can see for yourself https:\/\/t.co\/giCdjxjslE https:\/\/t.co\/dMv7iB7aRg","accountName":"COVID19_USA_","date":"Sun Mar 29 12:15:55 CEST 2020","retweetCount":0,"favoritesCount":3}
+{"text":"Out of 124697 cases 2612 have recovered so far and 2196 have died https:\/\/t.co\/5PAwNi3B1D","accountName":"COVID19_USA_","date":"Sun Mar 29 10:58:07 CEST 2020","retweetCount":3,"favoritesCount":10}
+{"text":"Final update of the day.\n\nNew cases: 19785 \n\nNew deaths: 487","accountName":"COVID19_USA_","date":"Sun Mar 29 08:17:36 CEST 2020","retweetCount":9,"favoritesCount":25}
+{"text":"19410 new cases so far today.","accountName":"COVID19_USA_","date":"Sun Mar 29 03:35:21 CEST 2020","retweetCount":1,"favoritesCount":13}
+{"text":"An infant in Illinois is now the youngest known person to die from COVID-19. https:\/\/t.co\/cd1kF4K2P4","accountName":"COVID19_USA_","date":"Sun Mar 29 01:09:10 CET 2020","retweetCount":1,"favoritesCount":4}
+{"text":"19004 new cases and 450 new deaths today.","accountName":"COVID19_USA_","date":"Sun Mar 29 00:57:57 CET 2020","retweetCount":5,"favoritesCount":11}
+{"text":"There are now 16029 new confirmed cases of coronavirus in the US and 299 new deaths today.","accountName":"COVID19_USA_","date":"Sat Mar 28 22:41:41 CET 2020","retweetCount":2,"favoritesCount":7}
+{"text":"14169 new cases today so far","accountName":"COVID19_USA_","date":"Sat Mar 28 21:53:10 CET 2020","retweetCount":3,"favoritesCount":6}
+{"text":"A 16 year old French girl with no underlying health conditions becomes the youngest person to die from the coronavirus","accountName":"COVID19_USA_","date":"Sat Mar 28 21:09:32 CET 2020","retweetCount":6,"favoritesCount":15}
+{"text":"213 bodies","accountName":"COVID19_USA_","date":"Sat Mar 28 21:04:17 CET 2020","retweetCount":2,"favoritesCount":5}
+{"text":"11248 new cases of the rona in the US","accountName":"COVID19_USA_","date":"Sat Mar 28 20:14:53 CET 2020","retweetCount":1,"favoritesCount":1}
+{"text":"There are now 10,086 new cases of coronavirus today in the US.","accountName":"COVID19_USA_","date":"Sat Mar 28 18:32:51 CET 2020","retweetCount":6,"favoritesCount":8}
+{"text":"The total number of confirmed coronavirus cases in USA is currently 112,480 and the total number of reported deaths is 1,846 https:\/\/t.co\/6TGHkxdcVl","accountName":"COVID19_USA_","date":"Sat Mar 28 18:05:25 CET 2020","retweetCount":9,"favoritesCount":9}
+{"text":"New cases have already gone up by 168 since this was tweeted","accountName":"COVID19_USA_","date":"Sat Mar 28 17:56:01 CET 2020","retweetCount":2,"favoritesCount":5}
+{"text":"There is currently 7443 new cases of COVID-19 in the US as of today and 124 new deaths.","accountName":"COVID19_USA_","date":"Sat Mar 28 17:54:47 CET 2020","retweetCount":3,"favoritesCount":12}
+{"text":"18806 new cases today and 402 deaths","accountName":"COVID19_USA_","date":"Sat Mar 28 06:09:51 CET 2020","retweetCount":2,"favoritesCount":5}
+{"text":"17988 new cases of coronavirus in the US and 374 new deaths today.","accountName":"COVID19_USA_","date":"Sat Mar 28 01:01:39 CET 2020","retweetCount":4,"favoritesCount":14}
+{"text":"16129 new cases of coronavirus","accountName":"COVID19_USA_","date":"Sat Mar 28 00:06:44 CET 2020","retweetCount":1,"favoritesCount":5}
+{"text":"There is a total of 101646 confirmed cases of the coronavirus in the US. Making us the country with the most cases of COVID-19","accountName":"COVID19_USA_","date":"Fri Mar 27 23:06:47 CET 2020","retweetCount":2,"favoritesCount":6}
+{"text":"260 coronavirus deaths so far today.","accountName":"COVID19_USA_","date":"Fri Mar 27 22:53:39 CET 2020","retweetCount":0,"favoritesCount":3}
+{"text":"Betty White has tested positive for being that bitch.","accountName":"COVID19_USA_","date":"Fri Mar 27 22:22:40 CET 2020","retweetCount":9,"favoritesCount":43}
+{"text":"There is now 14665 new coronavirus cases today","accountName":"COVID19_USA_","date":"Fri Mar 27 21:42:09 CET 2020","retweetCount":4,"favoritesCount":9}
+{"text":"Democratic congressman Joe Cunningham tested positive for coronavirus","accountName":"COVID19_USA_","date":"Fri Mar 27 21:37:35 CET 2020","retweetCount":0,"favoritesCount":2}
+{"text":"More than 160 Boston hospital workers tested positive for the coronavirus.","accountName":"COVID19_USA_","date":"Fri Mar 27 20:44:55 CET 2020","retweetCount":1,"favoritesCount":5}
+{"text":"There are 11235 new cases of coronavirus today.","accountName":"COVID19_USA_","date":"Fri Mar 27 20:40:32 CET 2020","retweetCount":2,"favoritesCount":8}
+{"text":"The stats of California currently has 57,400 cases pending results.","accountName":"COVID19_USA_","date":"Fri Mar 27 19:14:55 CET 2020","retweetCount":1,"favoritesCount":9}
+{"text":"160 bodies today so far.","accountName":"COVID19_USA_","date":"Fri Mar 27 19:12:10 CET 2020","retweetCount":3,"favoritesCount":18}
+{"text":"10619 new cases today.","accountName":"COVID19_USA_","date":"Fri Mar 27 19:11:42 CET 2020","retweetCount":1,"favoritesCount":6}
+{"text":"8157 new cases of miss rona confirmed today so far.","accountName":"COVID19_USA_","date":"Fri Mar 27 18:38:51 CET 2020","retweetCount":2,"favoritesCount":12}
+{"text":"As of now there are 93675 confirmed cases of COVID-19 in the US and 84 new deaths. Total deaths is currently at 1390(source in bio) https:\/\/t.co\/iNltfe2JSh","accountName":"COVID19_USA_","date":"Fri Mar 27 18:28:26 CET 2020","retweetCount":9,"favoritesCount":11}
+{"text":"RT @__kittysmeow__: I need a man like this https:\/\/t.co\/53lQN0rwGF","accountName":"COVID19_USA_","date":"Fri Aug 23 01:56:17 CEST 2019","retweetCount":14,"favoritesCount":0}
