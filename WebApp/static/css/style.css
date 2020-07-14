@@ -1,0 +1,107 @@
+.toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #1976d2;
+    color: white;
+    font-weight: 600;
+  }
+
+.toolbar img {
+    margin: 0 16px;
+  }
+
+.toolbar #twitter-logo {
+    height: 40px;
+    margin: 0 16px;
+  }
+
+.toolbar #twitter-logo:hover {
+    opacity: 0.8;
+  }
+.spacer {
+    flex: 1;
+}
+
+input {
+  display: none;
+}
+
+/*
+ * give label the pointer cursor to show that it's clickable
+ */
+
+label {
+  display: inline-block;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+
+/*
+ * With how I decided to build this, the position: relative is super important.
+ * We're going to position a pseudo element within this element(As it is the containing box)
+ */
+
+label span {
+  position: relative;
+  line-height: 22px;
+}
+
+
+/*
+ * Because we're using pseudo elements, a content property is required to make them appear.
+ */
+
+label span:before,
+label span:after {
+  content: '';
+}
+
+
+/*
+ * We are using the :before peudo elemnt as the actual button,
+ * then we'll position the :after over it. You could also use a background-image,
+ * font-icon, or really anything if you want different styles.
+ * For the specific style we're going for, this approach is simply the easiest, but
+ * once you understand the concept you can really do it however you like.
+ */
+
+label span:before {
+  border: 1px solid #222021;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+label span:after {
+  background: #222021;
+  width: 14px;
+  height: 14px;
+  position: absolute;
+  top: 2px;
+  left: 4px;
+  transition: 300ms;
+  opacity: 0;
+}
+
+/*
+ * This is the most important part of this whole file, if you understand what's happening here
+ * you can really make this in so many different ways.
+ *
+ * We start by selecting the input inside of the label, with "label input". From there we use the
+ * ":checked" selector to *only* select the input when it is checked. We then use the immediate sibling
+ * selector(+) to select the span, and then it's pseudo element :after(What we are using to mark the button)
+ * Because we already styled the :after, all we have to do is set the opacity to 1, making it fade in.
+ */
+label input:checked+span:after {
+  opacity: 1;
+}
+
+

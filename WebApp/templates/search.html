@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fondamento">
+    <link rel="icon" href="/static/img/twitter-search-icon.jpg">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="/static/css/style.css" rel="stylesheet">
+
+  <title>Tweet Search Engine</title>
+
+</head>
+<body>
+
+<div class="toolbar" role="banner">
+    <img width="40" alt="Disco Unimib Logo" src="/static/img/disco.jpg"/>
+    <span style="font-family: 'Fondamento'"> Welcome <b>{{user['name']}} </b>to your personalized tweet search engine  </span> 
+<div class="spacer"></div>
+    <a href='/' style="color:#ffffff;"><h3 style="font-family: 'Fondamento'">Logout<h3></a>
+    <a aria-label="twitter_link" target="_blank" rel="noopener" href="https://twitter.com" title="Twitter">
+      <svg id="twitter-logo" height="24" data-name="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+        <rect width="400" height="400" fill="none"/>
+        <path d="M153.62,301.59c94.34,0,145.94-78.16,145.94-145.94,0-2.22,0-4.43-.15-6.63A104.36,104.36,0,0,0,325,122.47a102.38,102.38,0,0,1-29.46,8.07,51.47,51.47,0,0,0,22.55-28.37,102.79,102.79,0,0,1-32.57,12.45,51.34,51.34,0,0,0-87.41,46.78A145.62,145.62,0,0,1,92.4,107.81a51.33,51.33,0,0,0,15.88,68.47A50.91,50.91,0,0,1,85,169.86c0,.21,0,.43,0,.65a51.31,51.31,0,0,0,41.15,50.28,51.21,51.21,0,0,1-23.16.88,51.35,51.35,0,0,0,47.92,35.62,102.92,102.92,0,0,1-63.7,22A104.41,104.41,0,0,1,75,278.55a145.21,145.21,0,0,0,78.62,23" fill="#fff"/>
+      </svg>
+    </a>
+</div>
+
+
+
+    <div class="container">
+    
+    <div class="span3 well">
+
+        <center>
+        <hr>
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapse1"><img src="{{user['imagePath']}}" name="aboutme" width="140" height="140" class="img-circle"></a>
+          <h3></h3>
+        <em>Click to view topical interests and related Bag Of Words</em>
+        </center>
+      <div class="panel-group" id="accordion">
+    	<div id="collapse1" class="panel-collapse collapse">
+        <div class="panel-body"><div class="modal-body">
+              
+                    <center>
+
+                    <h3 class="media-heading"> {{user['name']}} </h3>
+                    <span><strong>Interests Categories: </strong></span>
+                        {% for interest in user['topicalInterests'] %}
+                        <span class="label label-success">{{interest['categoryName']}}</span>
+                        {% endfor %}
+                       </center>
+                    <hr>
+
+                      <div class="panel-group" id="accordion2">
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                            <h4 class="panel-title">
+                              <a data-toggle="collapse" data-parent="#accordion2" href="#collapseTopic1">Bag of Words for topic {{user['topicalInterests'][0]['topicName']}}</a>
+                            </h4>
+                          </div>
+                <div id="collapseTopic1" class="panel-collapse collapse">
+                            <div class="panel-body"> 
+                                {{user['topicalInterests'][0]['bagOfWords']}}
+                                </div>
+                          </div>
+
+                        </div>
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                            <h4 class="panel-title">
+                              <a data-toggle="collapse" data-parent="#accordion2" href="#collapseTopic2">Bag of Words for topic {{user['topicalInterests'][1]['topicName']}} </a>
+                            </h4>
+                          </div>
+                          <div id="collapseTopic2" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                {{user['topicalInterests'][1]['bagOfWords']}} 
+                          </div>
+                        </div>
+                        <div class="panel panel-default">
+                          <div class="panel-heading">
+                            <h4 class="panel-title">
+                              <a data-toggle="collapse" data-parent="#accordion2" href="#collapseTopic3">Bag of Words for topic {{user['topicalInterests'][2]['topicName']}} </a>
+                            </h4>
+                          </div>
+                          <div id="collapseTopic3" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                {{user['topicalInterests'][2]['bagOfWords']}}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+
+
+                    <br>
+
+                </div>
+
+                </div>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+   <div class="container">
+ 
+
+    <div style="background:transparent !important" class="jumbotron">
+      <div style="font-family: 'Pacifico', cursive;">
+        <p>
+          <center>
+          <font size="8">Search for Tweets</font>
+          </center>
+        </p>
+      </div>
+    </div>
+
+
+    <form action="/search/results?user={{user['name']}}" method="post">
+        <label>
+        <input type="checkbox" name="costumsearch" value="hashtag" id="hashtagcheck">
+        <span>Search By Hashtag</span>
+        </label>
+        <label>
+        <input type="checkbox" name="personalized_search" value="True" id="personalcheck">
+        <span>Personalized Search</span><br>
+        </label>
+        <label>
+        <input type="checkbox" name="retweet" value="retweetsort" id="accountcheck">
+        <span>Sort by Retweet</span>
+        </label> 
+      <div class="input-group">
+        <input type="text" class="form-control input-lg" name="input" placeholder="Search" autofocus>
+        <div class="input-group-btn">
+          <button class="btn btn-primary btn-lg" type="submit">
+            <i class="glyphicon glyphicon-search"></i>
+          </button>
+        </div>
+      </div>
+    </form>
+
+    <br><br>
+      <footer class="footer">
+        <p>&copy; 2020 Antonino Tramontana </p>
+      </footer>
+
+      </div>
+    </div>
+  </body>
+</html>
+
