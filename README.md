@@ -8,7 +8,7 @@ Once the backend and the frontend are started, the Web App is accessible at the 
 "IRProjectSearchEngine" is the main directory of the backend, it containts an Intellij project, with all the configuration files, the already built index and the crawled data.
 
 "WebApp" contains the FrontEnd.
-In the main directory are located the Report and the PowerPoint.
+
 
 
 # Libraries
